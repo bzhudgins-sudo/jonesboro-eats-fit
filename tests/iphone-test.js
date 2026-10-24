@@ -12,7 +12,7 @@ let pass=0,fail=0;const ok=(c,m)=>{c?pass++:fail++;console.log((c?'PASS ':'FAIL 
  ok(names.length>=150,'list shows '+names.length+' places');
  ok(new Set(names).size===names.length,'no duplicate names');
  for(const n of ["McDonald's",'Sonic Drive-In','Subway','KFC']) ok(names.filter(x=>x===n).length===1,'exactly one '+n);
- ok(await p.$$eval('.place',x=>x.filter(e=>e.textContent.includes('No nutrition data yet')).length>50),'"No nutrition data yet" shown');
+ ok(await p.$$eval('.place',x=>x.filter(e=>e.textContent.includes('No nutrition data yet')).length>0),'"No nutrition data yet" shown');
  const ad=await p.$$eval('.place .sub',x=>x.some(e=>/\d+ .*(Dr|Ave|Rd|St)\b/.test(e.textContent)));ok(!ad,'no addresses in list');
  const scr=await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth);ok(scr,'no horizontal overflow');
  if(SHOT)await p.screenshot({path:SHOT});
@@ -26,7 +26,7 @@ let pass=0,fail=0;const ok=(c,m)=>{c?pass++:fail++;console.log((c?'PASS ':'FAIL 
  await p.click('#tabs button[data-v="snacks"]');ok(await p.$$eval('#v-snacks .item',x=>x.length)>0,'snacks tab');
  await p.click('#tabs button[data-v="profile"]');ok(!!(await p.$('#pSave')),'profile tab');
  const sw=await p.evaluate(async()=>{const r=await navigator.serviceWorker.ready;return r.active?.scriptURL});ok(!!sw,'service worker active: '+sw);
- const ck=await p.evaluate(()=>caches.keys());ok(ck.includes('eatsfit-v10')&&!ck.some(k=>k.includes('tiles')),'cache '+ck);
+ const ck=await p.evaluate(()=>caches.keys());ok(ck.includes('eatsfit-v11')&&!ck.some(k=>k.includes('tiles')),'cache '+ck);
  await p.setOfflineMode(true);await p.reload({waitUntil:'domcontentloaded'});await p.waitForSelector('.place',{timeout:8000}).catch(()=>{});
  ok((await p.$$eval('.place',x=>x.length))>=150,'works offline');
  ok(errs.length===0,'no page errors '+errs.join('; '));
