@@ -1,0 +1,442 @@
+[
+{
+"name": "Breakfast Breads",
+"cat": "Breakfast",
+"serving": "81g",
+"cal": 350.0,
+"fat": 15.0,
+"carbs": 53.0,
+"protein": 4.0,
+"sodium": 760.0
+},
+{
+"name": "Fruit Cup",
+"cat": "Breakfast",
+"serving": "125g",
+"cal": 70.0,
+"fat": 0.0,
+"carbs": 16.0,
+"protein": 1.0,
+"sodium": 0.0
+},
+{
+"name": "Hash Brown Scramble Bowl",
+"cat": "Breakfast",
+"serving": "233g",
+"cal": 470.0,
+"fat": 30.0,
+"carbs": 19.0,
+"protein": 29.0,
+"sodium": 1350.0
+},
+{
+"name": "Hash Brown Scramble Burrito",
+"cat": "Breakfast",
+"serving": "304g",
+"cal": 700.0,
+"fat": 40.0,
+"carbs": 51.0,
+"protein": 34.0,
+"sodium": 1770.0
+},
+{
+"name": "Chick-fil-A Chick-n-Minis\u00ae",
+"cat": "Breakfast",
+"serving": "127g",
+"cal": 360.0,
+"fat": 13.0,
+"carbs": 41.0,
+"protein": 20.0,
+"sodium": 1060.0
+},
+{
+"name": "Sausage, Egg & Cheese Muffin",
+"cat": "Breakfast",
+"serving": "173g",
+"cal": 490.0,
+"fat": 32.0,
+"carbs": 29.0,
+"protein": 23.0,
+"sodium": 1000.0
+},
+{
+"name": "Bacon, Egg & Cheese Muffin",
+"cat": "Breakfast",
+"serving": "126g",
+"cal": 300.0,
+"fat": 13.0,
+"carbs": 28.0,
+"protein": 16.0,
+"sodium": 710.0
+},
+{
+"name": "Chicken, Egg & Cheese Muffin",
+"cat": "Breakfast",
+"serving": "187g",
+"cal": 410.0,
+"fat": 18.0,
+"carbs": 36.0,
+"protein": 27.0,
+"sodium": 1320.0
+},
+{
+"name": "Sausage, Egg & Cheese Biscuit",
+"cat": "Breakfast",
+"serving": "192g",
+"cal": 620.0,
+"fat": 42.0,
+"carbs": 38.0,
+"protein": 22.0,
+"sodium": 1510.0
+},
+{
+"name": "Bacon, Egg & Cheese Biscuit",
+"cat": "Breakfast",
+"serving": "145g",
+"cal": 420.0,
+"fat": 23.0,
+"carbs": 38.0,
+"protein": 15.0,
+"sodium": 1220.0
+},
+{
+"name": "Chicken, Egg & Cheese Biscuit",
+"cat": "Breakfast",
+"serving": "211g",
+"cal": 550.0,
+"fat": 28.0,
+"carbs": 48.0,
+"protein": 27.0,
+"sodium": 1870.0
+},
+{
+"name": "Egg White Grill",
+"cat": "Breakfast",
+"serving": "172g",
+"cal": 300.0,
+"fat": 8.0,
+"carbs": 29.0,
+"protein": 27.0,
+"sodium": 990.0
+},
+{
+"name": "Spicy Chicken Biscuit",
+"cat": "Breakfast",
+"serving": "153g",
+"cal": 450.0,
+"fat": 22.0,
+"carbs": 44.0,
+"protein": 19.0,
+"sodium": 1570.0
+},
+{
+"name": "Chick-fil-A\u00ae Chicken Biscuit",
+"cat": "Breakfast",
+"serving": "153g",
+"cal": 460.0,
+"fat": 23.0,
+"carbs": 45.0,
+"protein": 19.0,
+"sodium": 1510.0
+},
+{
+"name": "Chicken & Waffles Breakfast Sandwich w/ Grilled Filet",
+"cat": "Breakfast",
+"serving": "129g",
+"cal": 440.0,
+"fat": 19.0,
+"carbs": 47.0,
+"protein": 20.0,
+"sodium": 830.0
+},
+{
+"name": "Chicken & Waffles Breakfast Sandwich w/ Spicy Filet",
+"cat": "Breakfast",
+"serving": "150g",
+"cal": 530.0,
+"fat": 25.0,
+"carbs": 54.0,
+"protein": 23.0,
+"sodium": 1220.0
+},
+{
+"name": "Berry Parfait",
+"cat": "Breakfast",
+"serving": "206g",
+"cal": 270.0,
+"fat": 9.0,
+"carbs": 35.0,
+"protein": 13.0,
+"sodium": 85.0
+},
+{
+"name": "Hash Browns",
+"cat": "Breakfast",
+"serving": "77g",
+"cal": 270.0,
+"fat": 18.0,
+"carbs": 23.0,
+"protein": 3.0,
+"sodium": 440.0
+},
+{
+"name": "Chicken & Waffles Breakfast Sandwich w/ Chick-fil-A\u00ae Filet",
+"cat": "Breakfast",
+"serving": "150g",
+"cal": 530.0,
+"fat": 26.0,
+"carbs": 55.0,
+"protein": 22.0,
+"sodium": 1160.0
+},
+{
+"name": "Chick-fil-A Chick-n-Strips\u00ae",
+"cat": "Entr\u00e9es",
+"serving": "136g",
+"cal": 310.0,
+"fat": 14.0,
+"carbs": 16.0,
+"protein": 29.0,
+"sodium": 870.0
+},
+{
+"name": "Grilled Nuggets",
+"cat": "Entr\u00e9es",
+"serving": "95g",
+"cal": 130.0,
+"fat": 3.0,
+"carbs": 1.0,
+"protein": 25.0,
+"sodium": 440.0
+},
+{
+"name": "Chick-fil-A\u00ae Nuggets",
+"cat": "Entr\u00e9es",
+"serving": "113g",
+"cal": 250.0,
+"fat": 11.0,
+"carbs": 11.0,
+"protein": 27.0,
+"sodium": 1210.0
+},
+{
+"name": "Chick-fil-A\u00ae Grilled Chicken Club Sandwich",
+"cat": "Entr\u00e9es",
+"serving": "237g",
+"cal": 520.0,
+"fat": 22.0,
+"carbs": 45.0,
+"protein": 37.0,
+"sodium": 1055.0
+},
+{
+"name": "Spicy Deluxe Sandwich",
+"cat": "Entr\u00e9es",
+"serving": "259g",
+"cal": 540.0,
+"fat": 24.0,
+"carbs": 46.0,
+"protein": 34.0,
+"sodium": 1890.0
+},
+{
+"name": "Chick-fil-A\u00ae Deluxe Sandwich",
+"cat": "Entr\u00e9es",
+"serving": "247g",
+"cal": 490.0,
+"fat": 21.0,
+"carbs": 43.0,
+"protein": 32.0,
+"sodium": 1710.0
+},
+{
+"name": "Chick-fil-A Cool Wrap\u00ae",
+"cat": "Entr\u00e9es",
+"serving": "231g",
+"cal": 660.0,
+"fat": 45.0,
+"carbs": 32.0,
+"protein": 43.0,
+"sodium": 1420.0
+},
+{
+"name": "Grilled Chicken Sandwich",
+"cat": "Entr\u00e9es",
+"serving": "206g",
+"cal": 390.0,
+"fat": 11.0,
+"carbs": 45.0,
+"protein": 28.0,
+"sodium": 765.0
+},
+{
+"name": "Spicy Chicken Sandwich",
+"cat": "Entr\u00e9es",
+"serving": "188g",
+"cal": 450.0,
+"fat": 18.0,
+"carbs": 44.0,
+"protein": 28.0,
+"sodium": 1740.0
+},
+{
+"name": "Chick-fil-A\u00ae Chicken Sandwich",
+"cat": "Entr\u00e9es",
+"serving": "183g",
+"cal": 420.0,
+"fat": 16.0,
+"carbs": 41.0,
+"protein": 29.0,
+"sodium": 1470.0
+},
+{
+"name": "Chicken & Waffles Sandwich w/ Grilled Filet",
+"cat": "Entr\u00e9es",
+"serving": "179g",
+"cal": 540.0,
+"fat": 24.0,
+"carbs": 55.0,
+"protein": 29.0,
+"sodium": 850.0
+},
+{
+"name": "Chicken & Waffles Sandwich w/ Spicy Filet",
+"cat": "Entr\u00e9es",
+"serving": "215g",
+"cal": 710.0,
+"fat": 35.0,
+"carbs": 70.0,
+"protein": 31.0,
+"sodium": 1860.0
+},
+{
+"name": "Chicken & Waffles Sandwich w/ Chick-fil-A\u00ae Filet",
+"cat": "Entr\u00e9es",
+"serving": "210g",
+"cal": 690.0,
+"fat": 34.0,
+"carbs": 66.0,
+"protein": 32.0,
+"sodium": 1600.0
+},
+{
+"name": "Market Salad",
+"cat": "Salads",
+"serving": "326g",
+"cal": 550.0,
+"fat": 31.0,
+"carbs": 42.0,
+"protein": 28.0,
+"sodium": 1010.0
+},
+{
+"name": "Spicy Southwest Salad",
+"cat": "Salads",
+"serving": "424g",
+"cal": 680.0,
+"fat": 49.0,
+"carbs": 27.0,
+"protein": 33.0,
+"sodium": 1570.0
+},
+{
+"name": "Cobb Salad",
+"cat": "Salads",
+"serving": "411g",
+"cal": 830.0,
+"fat": 60.0,
+"carbs": 31.0,
+"protein": 41.0,
+"sodium": 2180.0
+},
+{
+"name": "Mac & Cheese",
+"cat": "Sides",
+"serving": "227g",
+"cal": 450.0,
+"fat": 29.0,
+"carbs": 28.0,
+"protein": 20.0,
+"sodium": 1190.0
+},
+{
+"name": "Chick-fil-A Waffle Potato Fries\u00ae",
+"cat": "Sides",
+"serving": "125g",
+"cal": 420.0,
+"fat": 24.0,
+"carbs": 45.0,
+"protein": 5.0,
+"sodium": 240.0
+},
+{
+"name": "Side Salad",
+"cat": "Sides",
+"serving": "166g",
+"cal": 470.0,
+"fat": 42.0,
+"carbs": 14.0,
+"protein": 6.0,
+"sodium": 700.0
+},
+{
+"name": "Chicken Noodle Soup",
+"cat": "Sides",
+"serving": "252g",
+"cal": 190.0,
+"fat": 4.5,
+"carbs": 27.0,
+"protein": 11.0,
+"sodium": 1290.0
+},
+{
+"name": "Chicken Tortilla Soup",
+"cat": "Sides",
+"serving": "265g",
+"cal": 350.0,
+"fat": 11.0,
+"carbs": 39.0,
+"protein": 25.0,
+"sodium": 1115.0
+},
+{
+"name": "Kale Crunch Side",
+"cat": "Sides",
+"serving": "112g",
+"cal": 170.0,
+"fat": 12.0,
+"carbs": 13.0,
+"protein": 4.0,
+"sodium": 250.0
+},
+{
+"name": "Buddy Fruits\u00ae Apple Sauce",
+"cat": "Sides",
+"serving": "90g",
+"cal": 45.0,
+"fat": 0.0,
+"carbs": 12.0,
+"protein": 0.0,
+"sodium": 0.0
+},
+{
+"name": "Chick-fil-A\u00ae Sauce Flavored Waffle Potato Chips",
+"cat": "Sides",
+"serving": "43g",
+"cal": 210.0,
+"fat": 12.0,
+"carbs": 26.0,
+"protein": 3.0,
+"sodium": 330.0
+},
+{
+"name": "Original Flavor Waffle Potato Chips",
+"cat": "Sides",
+"serving": "43g",
+"cal": 220.0,
+"fat": 13.0,
+"carbs": 25.0,
+"protein": 3.0,
+"sodium": 250.0
+}
+]

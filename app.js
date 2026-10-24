@@ -37,13 +37,13 @@ function renderList(){const q=$('#q').value.trim().toLowerCase(),only=$('#fData'
  for(const r of D.rest){const d=dataFor(r);if(only&&!d)continue;const nm=r.name||r.brand||'Unnamed';
   let best=null,cnt=0;if(d){const f=filt(d.items);cnt=f.length;best=f[0];if(q&&!nm.toLowerCase().includes(q)&&!f.some(i=>i.name.toLowerCase().includes(q)))continue}else if(q&&!nm.toLowerCase().includes(q))continue;
   rows.push({r,d,nm,best,cnt})}
- rows.sort((a,b)=>(b.best?.score??-1)-(a.best?.score??-1));
- $('#v-list').innerHTML=`<div class="sub" style="padding:0 14px">${rows.length} places · per-meal target ≈ ${targets().meal} cal / ${targets().mealP} g protein</div>`+rows.map(x=>`<div class="card place" data-id="${esc(x.r.id)}"><div class="r"><div><h3>${esc(x.nm)}</h3><div class="sub">${esc(x.r.addr||x.r.cuisine||x.r.amenity)}</div>
+ rows.sort((a,b)=>((b.best?.score??-1)-(a.best?.score??-1))||a.nm.localeCompare(b.nm));
+ $('#v-list').innerHTML=`<div class="sub" style="padding:0 14px">${rows.length} places · per-meal target ≈ ${targets().meal} cal / ${targets().mealP} g protein</div>`+rows.map(x=>`<div class="card place" data-id="${esc(x.r.id)}"><div class="r"><div><h3>${esc(x.nm)}</h3>
  ${x.d?(x.best?`<div class="sub">Top pick: <b>${esc(x.best.name)}</b> — ${x.best.cal} cal, ${x.best.protein} g P</div>`:'<div class="sub">No items match your filters</div>'):'<div class="sub">No nutrition data yet</div>'}</div>
  ${x.d?`<span class="pill ${x.d.label==='Official'?'off':'est'}">${x.d.label}</span>`:''}</div></div>`).join('');
  document.querySelectorAll('.place').forEach(e=>e.onclick=()=>detail(e.dataset.id))}
 function detail(id){const r=D.rest.find(x=>x.id===id),d=dataFor(r);show('detail');const notes=load('ef_suggest',{});
- let h=`<div class="card"><button class="btn" id="back">← Back</button><h2>${esc(r.name||r.brand)}</h2><div class="sub">${esc(r.addr||'')}${r.website?` · <a href="${esc(r.website)}" target="_blank" rel="noopener">website</a>`:''}</div>`;
+ let h=`<div class="card"><button class="btn" id="back">← Back</button><h2>${esc(r.name||r.brand)}</h2><div class="sub">${r.doordash?`<a href="${esc(r.doordash)}" target="_blank" rel="noopener">View on DoorDash</a>`:'Not listed on DoorDash'}</div>`;
  if(d){const f=filt(d.items);h+=`<p class="sub"><span class="pill ${d.label==='Official'?'off':'est'}">${d.label}</span> Source: ${/^https?:/.test(d.src)?`<a href="${esc(d.src.split(' ')[0])}" target="_blank" rel="noopener">${esc(d.src)}</a>`:esc(d.src)}${d.date?' · retrieved '+d.date:''}${d.note?'<br>'+esc(d.note):''}</p><h3>What to order (ranked for your goal)</h3>`+(f.length?f.map(i=>itemHTML(i,d.label)).join(''):'<p class="sub">No items match your filters/allergies.</p>')}
  else h+=`<p><b>No nutrition data yet.</b></p>`;
  h+=`<h3>Suggest a menu item</h3><textarea id="sug" rows="3" placeholder="e.g. Grilled chicken plate">${esc(notes[id]||'')}</textarea><button class="btn pri" id="sugSave" style="margin-top:6px">Save note (on this phone)</button> <span id="sugOk" class="sub"></span></div>`;
@@ -59,12 +59,9 @@ function renderProfile(){const T=targets();$('#v-profile').innerHTML=`<div class
  <h3>Dislikes</h3><input id="pDis" type="text" placeholder="comma separated, e.g. mushroom, onion" value="${esc(P.dislikes)}">
  <p><button class="btn pri" id="pSave">Save profile</button> <span id="pOk" class="sub"></span></p><p class="sub" id="pT">Daily target: ${T.cal} cal, ${T.protein} g protein (≈${T.meal} cal / ${T.mealP} g per meal)</p></div>`;
  $('#pSave').onclick=()=>{P={goal:$('#pGoal').value,sex:$('#pSex').value,age:$('#pAge').value,heightIn:$('#pH').value,weightLb:$('#pW').value,activity:$('#pAct').value,calTarget:$('#pCal').value,protein:$('#pP').value,allergies:[...document.querySelectorAll('.pAl:checked')].map(e=>e.value),dislikes:$('#pDis').value};save('ef_profile',P);$('#pOk').textContent='Saved ✓';const T=targets();$('#pT').textContent=`Daily target: ${T.cal} cal, ${T.protein} g protein (≈${T.meal} cal / ${T.mealP} g per meal)`}}
-let map;function renderMap(){if(map){map.invalidateSize();return}map=L.map('map').setView([35.83,-90.69],12);
- L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
- for(const r of D.rest){const d=dataFor(r);L.circleMarker([r.lat,r.lon],{radius:7,color:d?(d.label==='Official'?'#22c55e':'#f59e0b'):'#64748b',fillOpacity:.8}).addTo(map).bindPopup(`<b>${esc(r.name||r.brand)}</b><br>${d?d.label+' data':'No nutrition data yet'}<br><a href="#" onclick="detail('${esc(r.id)}');return false">Details</a>`)}}
 function show(v){view=v;document.querySelectorAll('.view').forEach(e=>e.classList.add('hidden'));$('#v-'+v).classList.remove('hidden');
- document.querySelectorAll('#tabs button').forEach(b=>b.classList.toggle('on',b.dataset.v===v));$('#filters').classList.toggle('hidden',v==='profile'||v==='map');
- if(v==='list')renderList();if(v==='map')renderMap();if(v==='snacks')renderSnacks();if(v==='profile')renderProfile()}
+ document.querySelectorAll('#tabs button').forEach(b=>b.classList.toggle('on',b.dataset.v===v));$('#filters').classList.toggle('hidden',v==='profile');
+ if(v==='list')renderList();if(v==='snacks')renderSnacks();if(v==='profile')renderProfile()}
 function net(){$('#net').textContent=navigator.onLine?'online':'offline'}
 (async()=>{const g=u=>fetch(u).then(r=>r.json());const[rs,nut,loc,kr]=await Promise.all(['data/restaurants.json','data/nutrition.json','data/local-estimates.json','data/kroger-snacks.json'].map(g));
  D={rest:rs.restaurants,nut,loc,kr};document.querySelectorAll('#tabs button').forEach(b=>b.onclick=()=>show(b.dataset.v));

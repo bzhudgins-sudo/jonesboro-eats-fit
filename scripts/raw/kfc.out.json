@@ -1,0 +1,937 @@
+[
+{
+"name": "Extra Crispy\u2122 Chicken Breast",
+"cat": "World Famous Chicken",
+"cal": 530,
+"protein": 35,
+"carbs": 18,
+"fat": 35,
+"sodium": 1150,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Extra Crispy\u2122 Chicken Drumstick",
+"cat": "World Famous Chicken",
+"cal": 170,
+"protein": 10,
+"carbs": 5,
+"fat": 12,
+"sodium": 390,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Extra Crispy\u2122 Chicken Thigh",
+"cat": "World Famous Chicken",
+"cal": 330,
+"protein": 22,
+"carbs": 9,
+"fat": 23,
+"sodium": 700,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Extra Crispy\u2122 Chicken Whole Wing",
+"cat": "World Famous Chicken",
+"cal": 170,
+"protein": 10,
+"carbs": 5,
+"fat": 13,
+"sodium": 340,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Kentucky Grilled Chicken\u00ae Breast",
+"cat": "World Famous Chicken",
+"cal": 210,
+"protein": 38,
+"carbs": 0,
+"fat": 7,
+"sodium": 710,
+"allergens": [
+"gluten",
+"soy"
+]
+},
+{
+"name": "Kentucky Grilled Chicken\u00ae Drumstick",
+"cat": "World Famous Chicken",
+"cal": 80,
+"protein": 11,
+"carbs": 0,
+"fat": 4,
+"sodium": 220,
+"allergens": [
+"gluten",
+"soy"
+]
+},
+{
+"name": "Kentucky Grilled Chicken\u00ae Thigh",
+"cat": "World Famous Chicken",
+"cal": 150,
+"protein": 17,
+"carbs": 0,
+"fat": 9,
+"sodium": 420,
+"allergens": [
+"gluten",
+"soy"
+]
+},
+{
+"name": "Kentucky Grilled Chicken\u00ae Whole Wing",
+"cat": "World Famous Chicken",
+"cal": 70,
+"protein": 9,
+"carbs": 0,
+"fat": 3,
+"sodium": 180,
+"allergens": [
+"gluten",
+"soy"
+]
+},
+{
+"name": "Original Recipe\u00ae Chicken Breast",
+"cat": "World Famous Chicken",
+"cal": 390,
+"protein": 39,
+"carbs": 11,
+"fat": 21,
+"sodium": 1190,
+"allergens": [
+"dairy",
+"egg",
+"gluten"
+]
+},
+{
+"name": "Original Recipe\u00ae Chicken Drumstick",
+"cat": "World Famous Chicken",
+"cal": 130,
+"protein": 12,
+"carbs": 4,
+"fat": 8,
+"sodium": 430,
+"allergens": [
+"dairy",
+"egg",
+"gluten"
+]
+},
+{
+"name": "Original Recipe\u00ae Chicken Thigh",
+"cat": "World Famous Chicken",
+"cal": 280,
+"protein": 19,
+"carbs": 8,
+"fat": 19,
+"sodium": 910,
+"allergens": [
+"dairy",
+"egg",
+"gluten"
+]
+},
+{
+"name": "Original Recipe\u00ae Chicken Whole Wing",
+"cat": "World Famous Chicken",
+"cal": 130,
+"protein": 10,
+"carbs": 3,
+"fat": 8,
+"sodium": 380,
+"allergens": [
+"dairy",
+"egg",
+"gluten"
+]
+},
+{
+"name": "Spicy Crispy Chicken Breast",
+"cat": "World Famous Chicken",
+"cal": 350,
+"protein": 30,
+"carbs": 11,
+"fat": 20,
+"sodium": 1100,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Spicy Crispy Chicken Drumstick",
+"cat": "World Famous Chicken",
+"cal": 130,
+"protein": 9,
+"carbs": 5,
+"fat": 8,
+"sodium": 420,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Spicy Crispy Chicken Thigh",
+"cat": "World Famous Chicken",
+"cal": 270,
+"protein": 13,
+"carbs": 10,
+"fat": 20,
+"sodium": 720,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Spicy Crispy Chicken Whole Wing",
+"cat": "World Famous Chicken",
+"cal": 120,
+"protein": 7,
+"carbs": 5,
+"fat": 8,
+"sodium": 350,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Kentucky Fried Nuggets (1)",
+"cat": "World Famous Chicken",
+"cal": 35,
+"protein": 3,
+"carbs": 1,
+"fat": 1.5,
+"sodium": 140,
+"allergens": [
+"dairy",
+"egg",
+"gluten"
+]
+},
+{
+"name": "NEW! Original Recipe\u00ae Tender (each)",
+"cat": "World Famous Chicken",
+"cal": 170,
+"protein": 11,
+"carbs": 20,
+"fat": 6,
+"sodium": 400,
+"allergens": [
+"dairy",
+"egg",
+"gluten"
+]
+},
+{
+"name": "3.5\" Brioche Bun",
+"cat": "Sandwiches",
+"cal": 160,
+"protein": 5,
+"carbs": 31,
+"fat": 2,
+"sodium": 270,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Bacon",
+"cat": "Sandwiches",
+"cal": 508.95,
+"protein": 32.72,
+"carbs": 3.59,
+"fat": 40.41,
+"sodium": 1838.98,
+"allergens": []
+},
+{
+"name": "Brioche Bun",
+"cat": "Sandwiches",
+"cal": 317.99,
+"protein": 13.72,
+"carbs": 51.98,
+"fat": 0,
+"sodium": 516,
+"allergens": [
+"gluten",
+"sesame"
+]
+},
+{
+"name": "Bun",
+"cat": "Sandwiches",
+"cal": 292.2,
+"protein": 11.5,
+"carbs": 51.3,
+"fat": 4.55,
+"sodium": 466,
+"allergens": [
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Classic Chicken Sandwich",
+"cat": "Sandwiches",
+"cal": 650,
+"protein": 34,
+"carbs": 49,
+"fat": 35,
+"sodium": 1260,
+"allergens": [
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Coleslaw",
+"cat": "Sandwiches",
+"cal": 170,
+"protein": 1,
+"carbs": 14,
+"fat": 12,
+"sodium": 180,
+"allergens": [
+"egg"
+]
+},
+{
+"name": "Colonel's Mayo",
+"cat": "Sandwiches",
+"cal": 728.6,
+"protein": 1.12,
+"carbs": 4.1,
+"fat": 78.63,
+"sodium": 547,
+"allergens": [
+"egg"
+]
+},
+{
+"name": "Extra Crispy\u2122 Filet",
+"cat": "Sandwiches",
+"cal": 247.1,
+"protein": 19,
+"carbs": 13,
+"fat": 13.23,
+"sodium": 717,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Flour Tortilla",
+"cat": "Sandwiches",
+"cal": 300.68,
+"protein": 7.909,
+"carbs": 51.221,
+"fat": 7.129,
+"sodium": 690.879,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Lettuce",
+"cat": "Sandwiches",
+"cal": 12.6,
+"protein": 1.19,
+"carbs": 2.17,
+"fat": 0.19,
+"sodium": 8.7,
+"allergens": []
+},
+{
+"name": "Lettuce Romaine Shredded",
+"cat": "Sandwiches",
+"cal": 17,
+"protein": 1.23,
+"carbs": 3.29,
+"fat": 0.3,
+"sodium": 8,
+"allergens": []
+},
+{
+"name": "Nashville Hot Sauce",
+"cat": "Sandwiches",
+"cal": 757.2,
+"protein": 1.7,
+"carbs": 10.6,
+"fat": 78.67,
+"sodium": 1190,
+"allergens": []
+},
+{
+"name": "Original Recipe\u00ae Tender (2)",
+"cat": "Sandwiches",
+"cal": 350,
+"protein": 21,
+"carbs": 39,
+"fat": 12,
+"sodium": 810,
+"allergens": [
+"dairy",
+"egg",
+"gluten"
+]
+},
+{
+"name": "Pepper Mayo",
+"cat": "Sandwiches",
+"cal": 543.69,
+"protein": 0.7,
+"carbs": 11.08,
+"fat": 56.08,
+"sodium": 755.1,
+"allergens": [
+"egg"
+]
+},
+{
+"name": "Pickle",
+"cat": "Sandwiches",
+"cal": 11,
+"protein": 0.5,
+"carbs": 1.94,
+"fat": 0.13,
+"sodium": 989,
+"allergens": []
+},
+{
+"name": "Sandwich Bun",
+"cat": "Sandwiches",
+"cal": 130,
+"protein": 4,
+"carbs": 25,
+"fat": 1.5,
+"sodium": 190,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Shredded Cheese Blend",
+"cat": "Sandwiches",
+"cal": 331.688,
+"protein": 22.013,
+"carbs": 8.425,
+"fat": 23.325,
+"sodium": 831.258,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Shredded Lettuce",
+"cat": "Sandwiches",
+"cal": 14,
+"protein": 0.9,
+"carbs": 2.97,
+"fat": 0.14,
+"sodium": 10,
+"allergens": []
+},
+{
+"name": "Spicy Chicken Sandwich",
+"cat": "Sandwiches",
+"cal": 620,
+"protein": 34,
+"carbs": 49,
+"fat": 33,
+"sodium": 2140,
+"allergens": [
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Spicy Zinger Filet",
+"cat": "Sandwiches",
+"cal": 190.3,
+"protein": 20.66,
+"carbs": 7.7,
+"fat": 9.43,
+"sodium": 794,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Spicy Zinger Mayo",
+"cat": "Sandwiches",
+"cal": 687.86,
+"protein": 1.52,
+"carbs": 4.39,
+"fat": 75,
+"sodium": 499.41,
+"allergens": [
+"egg"
+]
+},
+{
+"name": "Tomatoes",
+"cat": "Sandwiches",
+"cal": 18,
+"protein": 0.88,
+"carbs": 3.89,
+"fat": 0.2,
+"sodium": 5,
+"allergens": []
+},
+{
+"name": "Tortilla",
+"cat": "Sandwiches",
+"cal": 190,
+"protein": 4,
+"carbs": 31,
+"fat": 5,
+"sodium": 380,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Zinger Filet",
+"cat": "Sandwiches",
+"cal": 238.4,
+"protein": 21.94,
+"carbs": 9.5,
+"fat": 12.52,
+"sodium": 783,
+"allergens": [
+"gluten",
+"soy"
+]
+},
+{
+"name": "Chicken Pot Pie",
+"cat": "Pot Pie & KFC\u00ae Famous Bowls",
+"cal": 720,
+"protein": 26,
+"carbs": 60,
+"fat": 41,
+"sodium": 1750,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Gravy",
+"cat": "Pot Pie & KFC\u00ae Famous Bowls",
+"cal": 55.7,
+"protein": 1.44,
+"carbs": 6.8,
+"fat": 2.53,
+"sodium": 503,
+"allergens": [
+"dairy",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Kentucky Fried Nuggets",
+"cat": "Pot Pie & KFC\u00ae Famous Bowls",
+"cal": 190,
+"protein": 20,
+"carbs": 8,
+"fat": 9,
+"sodium": 800,
+"allergens": [
+"dairy",
+"egg",
+"gluten"
+]
+},
+{
+"name": "Kentucky Fried Nuggets (5)",
+"cat": "Pot Pie & KFC\u00ae Famous Bowls",
+"cal": 170,
+"protein": 17,
+"carbs": 7,
+"fat": 8,
+"sodium": 690,
+"allergens": [
+"dairy",
+"egg",
+"gluten"
+]
+},
+{
+"name": "Mashed Potatoes",
+"cat": "Pot Pie & KFC\u00ae Famous Bowls",
+"cal": 110,
+"protein": 2,
+"carbs": 17,
+"fat": 3.5,
+"sodium": 330,
+"allergens": [
+"dairy",
+"soy"
+]
+},
+{
+"name": "Secret Recipe Fries",
+"cat": "Pot Pie & KFC\u00ae Famous Bowls",
+"cal": 320,
+"protein": 5,
+"carbs": 41,
+"fat": 15,
+"sodium": 1100,
+"allergens": [
+"gluten",
+"soy"
+]
+},
+{
+"name": "Sweet Kernel Corn",
+"cat": "Pot Pie & KFC\u00ae Famous Bowls",
+"cal": 70,
+"protein": 2,
+"carbs": 16,
+"fat": 0.5,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "White Cheddar Cheese Curds",
+"cat": "Pot Pie & KFC\u00ae Famous Bowls",
+"cal": 396.8,
+"protein": 19.28,
+"carbs": 19.4,
+"fat": 26.9,
+"sodium": 734,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"soy"
+]
+},
+{
+"name": "BBQ Baked Beans",
+"cat": "Homestyle Sides",
+"cal": 190,
+"protein": 11,
+"carbs": 34,
+"fat": 1,
+"sodium": 650,
+"allergens": [
+"gluten",
+"soy"
+]
+},
+{
+"name": "Biscuit",
+"cat": "Homestyle Sides",
+"cal": 175.1,
+"protein": 3.609,
+"carbs": 22.238,
+"fat": 7.969,
+"sodium": 516.906,
+"allergens": [
+"dairy",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Corn on the Cob",
+"cat": "Homestyle Sides",
+"cal": 70,
+"protein": 2,
+"carbs": 17,
+"fat": 0.5,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Green Beans",
+"cat": "Homestyle Sides",
+"cal": 25,
+"protein": 1,
+"carbs": 5,
+"fat": 0,
+"sodium": 300,
+"allergens": []
+},
+{
+"name": "KFC\u00ae Cornbread Muffin",
+"cat": "Homestyle Sides",
+"cal": 400.1,
+"protein": 5.81,
+"carbs": 53.7,
+"fat": 18.01,
+"sodium": 463,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Macaroni & Cheese",
+"cat": "Homestyle Sides",
+"cal": 140,
+"protein": 5,
+"carbs": 17,
+"fat": 6,
+"sodium": 590,
+"allergens": [
+"dairy",
+"egg",
+"gluten"
+]
+},
+{
+"name": "Mashed Potato With Gravy",
+"cat": "Homestyle Sides",
+"cal": 130,
+"protein": 3,
+"carbs": 20,
+"fat": 4.5,
+"sodium": 520,
+"allergens": [
+"dairy",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Potato Wedges",
+"cat": "Homestyle Sides",
+"cal": 247.6,
+"protein": 3.53,
+"carbs": 31.7,
+"fat": 11.85,
+"sodium": 648,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "BBQ Baked Beans (Family)",
+"cat": "Homestyle Sides",
+"cal": 830,
+"protein": 47,
+"carbs": 148,
+"fat": 5,
+"sodium": 2810,
+"allergens": [
+"gluten",
+"soy"
+]
+},
+{
+"name": "Coleslaw (Family)",
+"cat": "Homestyle Sides",
+"cal": 640,
+"protein": 4,
+"carbs": 54,
+"fat": 46,
+"sodium": 670,
+"allergens": [
+"egg"
+]
+},
+{
+"name": "Corn on the Cob (Family)",
+"cat": "Homestyle Sides",
+"cal": 280,
+"protein": 9,
+"carbs": 67,
+"fat": 2,
+"sodium": 15,
+"allergens": []
+},
+{
+"name": "Green Beans (Family)",
+"cat": "Homestyle Sides",
+"cal": 80,
+"protein": 4,
+"carbs": 15,
+"fat": 0,
+"sodium": 930,
+"allergens": []
+},
+{
+"name": "Macaroni & Cheese (Family)",
+"cat": "Homestyle Sides",
+"cal": 540,
+"protein": 18,
+"carbs": 66,
+"fat": 23,
+"sodium": 2220,
+"allergens": [
+"dairy",
+"egg",
+"gluten"
+]
+},
+{
+"name": "Mashed Potatoes (Family)",
+"cat": "Homestyle Sides",
+"cal": 460,
+"protein": 9,
+"carbs": 72,
+"fat": 15,
+"sodium": 1410,
+"allergens": [
+"dairy",
+"soy"
+]
+},
+{
+"name": "Mashed Potatoes With Gravy (Family)",
+"cat": "Homestyle Sides",
+"cal": 590,
+"protein": 12,
+"carbs": 88,
+"fat": 21,
+"sodium": 2590,
+"allergens": [
+"dairy",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Potato Wedges (Large)",
+"cat": "Homestyle Sides",
+"cal": 758.0881,
+"protein": 10.808,
+"carbs": 97.0573,
+"fat": 36.2817,
+"sodium": 1984.0107,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Secret Recipe Fries (Family)",
+"cat": "Homestyle Sides",
+"cal": 840,
+"protein": 13,
+"carbs": 108,
+"fat": 40,
+"sodium": 2890,
+"allergens": [
+"gluten",
+"soy"
+]
+},
+{
+"name": "Sweet Kernel Corn (Family)",
+"cat": "Homestyle Sides",
+"cal": 280,
+"protein": 10,
+"carbs": 67,
+"fat": 2.5,
+"sodium": 10,
+"allergens": []
+},
+{
+"name": "Bacon (Pieces)",
+"cat": "Salads",
+"cal": 492.4,
+"protein": 45.4,
+"carbs": 3.4,
+"fat": 33.02,
+"sodium": 2730,
+"allergens": []
+},
+{
+"name": "Heinz Buttermilk Dressing",
+"cat": "Salads",
+"cal": 160,
+"protein": 0,
+"carbs": 1,
+"fat": 17,
+"sodium": 220,
+"allergens": [
+"dairy",
+"egg"
+]
+},
+{
+"name": "Hidden Valley The Original Ranch Fat Free Dressing",
+"cat": "Salads",
+"cal": 35,
+"protein": 1,
+"carbs": 8,
+"fat": 0,
+"sodium": 410,
+"allergens": [
+"dairy",
+"soy"
+]
+},
+{
+"name": "KFC\u00ae Creamy Parmesan Caesar Dressing",
+"cat": "Salads",
+"cal": 260,
+"protein": 2,
+"carbs": 4,
+"fat": 26,
+"sodium": 540,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"soy"
+]
+},
+{
+"name": "Marzetti Light Italian Dressing",
+"cat": "Salads",
+"cal": 15,
+"protein": 0,
+"carbs": 2,
+"fat": 0.5,
+"sodium": 510,
+"allergens": []
+},
+{
+"name": "Parmesan Garlic Croutons",
+"cat": "Salads",
+"cal": 64.51,
+"protein": 1.76,
+"carbs": 8.16,
+"fat": 2.76,
+"sodium": 136.92,
+"allergens": [
+"dairy",
+"gluten"
+]
+},
+{
+"name": "Parmesan Shaved Cheese",
+"cat": "Salads",
+"cal": 381.8,
+"protein": 31.03,
+"carbs": 6.2,
+"fat": 25.88,
+"sodium": 1140,
+"allergens": [
+"dairy"
+]
+}
+]

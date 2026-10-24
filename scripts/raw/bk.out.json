@@ -1,0 +1,2897 @@
+[
+{
+"name": "Fully Loaded Croissan'wich",
+"cat": "Breakfast",
+"cal": 540,
+"protein": 24,
+"carbs": 30,
+"fat": 38,
+"sodium": 1560,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Double Sausage, Egg, & Cheese Croissan'wich",
+"cat": "Breakfast",
+"cal": 730,
+"protein": 28,
+"carbs": 30,
+"fat": 55,
+"sodium": 1660,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Bacon, Sausage, Egg, & Cheese Croissan'wich",
+"cat": "Breakfast",
+"cal": 500,
+"protein": 18,
+"carbs": 28,
+"fat": 36,
+"sodium": 1200,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Sausage, Egg, & Cheese Croissan'wich",
+"cat": "Breakfast",
+"cal": 420,
+"protein": 13,
+"carbs": 27,
+"fat": 29,
+"sodium": 820,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Bacon, Egg, & Cheese Croissan'wich",
+"cat": "Breakfast",
+"cal": 280,
+"protein": 9,
+"carbs": 27,
+"fat": 16,
+"sodium": 590,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Ham, Egg, & Cheese Croissan'wich",
+"cat": "Breakfast",
+"cal": 270,
+"protein": 12,
+"carbs": 28,
+"fat": 14,
+"sodium": 780,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Egg & Cheese Croissan'wich",
+"cat": "Breakfast",
+"cal": 230,
+"protein": 6,
+"carbs": 27,
+"fat": 12,
+"sodium": 420,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Fully Loaded Biscuit",
+"cat": "Breakfast",
+"cal": 580,
+"protein": 25,
+"carbs": 33,
+"fat": 40,
+"sodium": 2070,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Double Sausage, Egg, & Cheese Biscuit",
+"cat": "Breakfast",
+"cal": 710,
+"protein": 23,
+"carbs": 32,
+"fat": 54,
+"sodium": 1970,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Bacon, Sausage, Egg, & Cheese Biscuit",
+"cat": "Breakfast",
+"cal": 570,
+"protein": 19,
+"carbs": 32,
+"fat": 41,
+"sodium": 1740,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Sausage, Egg, & Cheese Biscuit",
+"cat": "Breakfast",
+"cal": 480,
+"protein": 14,
+"carbs": 31,
+"fat": 34,
+"sodium": 1360,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Bacon, Egg, & Cheese Biscuit",
+"cat": "Breakfast",
+"cal": 340,
+"protein": 10,
+"carbs": 30,
+"fat": 21,
+"sodium": 1120,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Ham, Egg, & Cheese Biscuit",
+"cat": "Breakfast",
+"cal": 340,
+"protein": 13,
+"carbs": 31,
+"fat": 19,
+"sodium": 1310,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Egg & Cheese Biscuit",
+"cat": "Breakfast",
+"cal": 300,
+"protein": 7,
+"carbs": 30,
+"fat": 17,
+"sodium": 960,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Sausage Biscuit",
+"cat": "Breakfast",
+"cal": 440,
+"protein": 12,
+"carbs": 30,
+"fat": 30,
+"sodium": 1150,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Egg-Normous Burrito",
+"cat": "Breakfast",
+"cal": 480,
+"protein": 23,
+"carbs": 53,
+"fat": 20.999,
+"sodium": 1504.999,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Breakfast Burrito Jr.",
+"cat": "Breakfast",
+"cal": 328,
+"protein": 10,
+"carbs": 26.825,
+"fat": 20.177,
+"sodium": 870,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Pancake & Sausage Platter",
+"cat": "Breakfast",
+"cal": 580,
+"protein": 12,
+"carbs": 75,
+"fat": 26,
+"sodium": 1090,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Pancake Platter",
+"cat": "Breakfast",
+"cal": 400,
+"protein": 5,
+"carbs": 74,
+"fat": 9,
+"sodium": 690,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"soy"
+]
+},
+{
+"name": "5 Pc. French Toast Sticks",
+"cat": "Breakfast",
+"cal": 410,
+"protein": 6,
+"carbs": 47,
+"fat": 21,
+"sodium": 315,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "3 Pc. French Toast Sticks",
+"cat": "Breakfast",
+"cal": 250,
+"protein": 4,
+"carbs": 28,
+"fat": 13,
+"sodium": 185,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Small Hash Browns",
+"cat": "Breakfast",
+"cal": 270,
+"protein": 2,
+"carbs": 29,
+"fat": 16,
+"sodium": 570,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Medium Hash Browns",
+"cat": "Breakfast",
+"cal": 510,
+"protein": 4,
+"carbs": 55,
+"fat": 30,
+"sodium": 1060,
+"allergens": [
+"gluten",
+"soy"
+]
+},
+{
+"name": "Large Hash Browns",
+"cat": "Breakfast",
+"cal": 700,
+"protein": 6,
+"carbs": 76,
+"fat": 42,
+"sodium": 1460,
+"allergens": [
+"gluten",
+"soy"
+]
+},
+{
+"name": "Game Day Pretzel Burger",
+"cat": "Flame Grilled Burgers",
+"cal": 325,
+"protein": 12,
+"carbs": 56,
+"fat": 5.5,
+"sodium": 659.999,
+"allergens": [
+"dairy",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Whopper",
+"cat": "Flame Grilled Burgers",
+"cal": 257,
+"protein": 12,
+"carbs": 51.76,
+"fat": 4.75,
+"sodium": 600,
+"allergens": [
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Whopper with Bacon",
+"cat": "Flame Grilled Burgers",
+"cal": 257,
+"protein": 11,
+"carbs": 51.76,
+"fat": 4.75,
+"sodium": 599.999,
+"allergens": [
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Whopper with Cheese",
+"cat": "Flame Grilled Burgers",
+"cal": 257,
+"protein": 11,
+"carbs": 52.76,
+"fat": 4.75,
+"sodium": 590,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Whopper with Bacon & Cheese",
+"cat": "Flame Grilled Burgers",
+"cal": 267,
+"protein": 11,
+"carbs": 52.76,
+"fat": 4.75,
+"sodium": 599.999,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Impossible\u2122 Whopper",
+"cat": "Flame Grilled Burgers",
+"cal": 257,
+"protein": 11,
+"carbs": 50.76,
+"fat": 4.75,
+"sodium": 510,
+"allergens": [
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Texas Whopper\u00ae",
+"cat": "Flame Grilled Burgers",
+"cal": 262,
+"protein": 10.61,
+"carbs": 51.11,
+"fat": 4.47,
+"sodium": 596.719,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Texas Double Whopper\u00ae",
+"cat": "Flame Grilled Burgers",
+"cal": 262,
+"protein": 10.61,
+"carbs": 53.11,
+"fat": 4.47,
+"sodium": 596.719,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Impossible\u2122 Texas Whopper\u00ae",
+"cat": "Flame Grilled Burgers",
+"cal": 262,
+"protein": 10.61,
+"carbs": 51.11,
+"fat": 4.47,
+"sodium": 506.719,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Texas Whopper\u00ae Jr.",
+"cat": "Flame Grilled Burgers",
+"cal": 140,
+"protein": 6.486,
+"carbs": 26.42,
+"fat": 2.416,
+"sodium": 281.793,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Double Whopper",
+"cat": "Flame Grilled Burgers",
+"cal": 257,
+"protein": 12,
+"carbs": 51.76,
+"fat": 4.75,
+"sodium": 600,
+"allergens": [
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Double Whopper with Bacon",
+"cat": "Flame Grilled Burgers",
+"cal": 257,
+"protein": 11,
+"carbs": 51.76,
+"fat": 4.75,
+"sodium": 599.999,
+"allergens": [
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Double Whopper with Cheese",
+"cat": "Flame Grilled Burgers",
+"cal": 257,
+"protein": 12,
+"carbs": 53.76,
+"fat": 4.75,
+"sodium": 590,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Double Whopper with Bacon & Cheese",
+"cat": "Flame Grilled Burgers",
+"cal": 257,
+"protein": 11,
+"carbs": 53.76,
+"fat": 4.75,
+"sodium": 499.999,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Triple Whopper\u00ae",
+"cat": "Flame Grilled Burgers",
+"cal": 257,
+"protein": 12,
+"carbs": 51.76,
+"fat": 4.75,
+"sodium": 590,
+"allergens": [
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Triple Whopper\u00ae with Bacon",
+"cat": "Flame Grilled Burgers",
+"cal": 257,
+"protein": 12,
+"carbs": 52.76,
+"fat": 4.75,
+"sodium": 599.999,
+"allergens": [
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Triple Whopper\u00ae with Cheese",
+"cat": "Flame Grilled Burgers",
+"cal": 257,
+"protein": 12,
+"carbs": 53.76,
+"fat": 4.75,
+"sodium": 590,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Triple Whopper with Bacon & Cheese",
+"cat": "Flame Grilled Burgers",
+"cal": 257,
+"protein": 12,
+"carbs": 53.76,
+"fat": 4.75,
+"sodium": 589.999,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Bacon King",
+"cat": "Flame Grilled Burgers",
+"cal": 267,
+"protein": 7,
+"carbs": 53.75,
+"fat": 2.75,
+"sodium": 589.999,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "BBQ Bacon Whopper Jr.",
+"cat": "Flame Grilled Burgers",
+"cal": 288,
+"protein": 19,
+"carbs": 27.005,
+"fat": 14.375,
+"sodium": 477.4,
+"allergens": [
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Whopper Jr.\u00ae",
+"cat": "Flame Grilled Burgers",
+"cal": 135,
+"protein": 6,
+"carbs": 26.655,
+"fat": 2.375,
+"sodium": 287.6,
+"allergens": [
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Whopper Jr.\u00ae with Bacon",
+"cat": "Flame Grilled Burgers",
+"cal": 247,
+"protein": 15.666,
+"carbs": 27.215,
+"fat": 11.041,
+"sodium": 313.333,
+"allergens": [
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Whopper Jr.\u00ae with Cheese",
+"cat": "Flame Grilled Burgers",
+"cal": 247,
+"protein": 15,
+"carbs": 28.215,
+"fat": 10.875,
+"sodium": 310,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Whopper Jr.\u00ae with Bacon & Cheese",
+"cat": "Flame Grilled Burgers",
+"cal": 257,
+"protein": 14.666,
+"carbs": 28.215,
+"fat": 10.541,
+"sodium": 313.333,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Bacon Double Cheeseburger",
+"cat": "Flame Grilled Burgers",
+"cal": 147,
+"protein": 4.556,
+"carbs": 28.47,
+"fat": 2.556,
+"sodium": 273.533,
+"allergens": [
+"dairy",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Bacon Cheeseburger",
+"cat": "Flame Grilled Burgers",
+"cal": 257,
+"protein": 13.556,
+"carbs": 27.47,
+"fat": 10.056,
+"sodium": 313.533,
+"allergens": [
+"dairy",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Double Cheeseburger",
+"cat": "Flame Grilled Burgers",
+"cal": 147,
+"protein": 4.89,
+"carbs": 28.47,
+"fat": 1.89,
+"sodium": 270.2,
+"allergens": [
+"dairy",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Cheeseburger",
+"cat": "Flame Grilled Burgers",
+"cal": 137,
+"protein": 4.89,
+"carbs": 27.47,
+"fat": 2.39,
+"sodium": 280.2,
+"allergens": [
+"dairy",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Rodeo Burger",
+"cat": "Flame Grilled Burgers",
+"cal": 213,
+"protein": 6,
+"carbs": 36.04,
+"fat": 5,
+"sodium": 417.4,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Rodeo Double Cheeseburger",
+"cat": "Flame Grilled Burgers",
+"cal": 136,
+"protein": 5,
+"carbs": 24.44,
+"fat": 2.5,
+"sodium": 201.4,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Rodeo Cheeseburger",
+"cat": "Flame Grilled Burgers",
+"cal": 213,
+"protein": 6,
+"carbs": 37.04,
+"fat": 5.5,
+"sodium": 407.4,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Hamburger",
+"cat": "Flame Grilled Burgers",
+"cal": 27,
+"protein": -4.11,
+"carbs": 26.47,
+"fat": -6.11,
+"sodium": 240.2,
+"allergens": [
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Kid's Hamburger",
+"cat": "Flame Grilled Burgers",
+"cal": 150,
+"protein": 5,
+"carbs": 29,
+"fat": 2,
+"sodium": 370,
+"allergens": [
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Kid's Cheeseburger",
+"cat": "Flame Grilled Burgers",
+"cal": 150,
+"protein": 5,
+"carbs": 28,
+"fat": 1.5,
+"sodium": 370,
+"allergens": [
+"dairy",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "12 Pc. Game Day Chicken Fries",
+"cat": "Chicken & Fish",
+"cal": 230,
+"protein": 18,
+"carbs": 18,
+"fat": 8,
+"sodium": 240,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "8 Pc. Game Day Chicken Fries",
+"cat": "Chicken & Fish",
+"cal": 220,
+"protein": 13,
+"carbs": 16,
+"fat": 12,
+"sodium": 680,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "4 Pc. Game Day Chicken Fries",
+"cat": "Chicken & Fish",
+"cal": 110,
+"protein": 7,
+"carbs": 8,
+"fat": 6,
+"sodium": 330,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Original Chicken Sandwich",
+"cat": "Chicken & Fish",
+"cal": 468,
+"protein": 23,
+"carbs": 62,
+"fat": 16,
+"sodium": 1220,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Royal Crispy Chicken",
+"cat": "Chicken & Fish",
+"cal": 444,
+"protein": 31,
+"carbs": 53,
+"fat": 15,
+"sodium": 1090,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Spicy Royal Crispy Chicken",
+"cat": "Chicken & Fish",
+"cal": 444,
+"protein": 31,
+"carbs": 53,
+"fat": 15,
+"sodium": 1080,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Bacon and Swiss Royal Crispy Chicken",
+"cat": "Chicken & Fish",
+"cal": 584,
+"protein": 39,
+"carbs": 55,
+"fat": 27,
+"sodium": 1680,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Chicken Jr.",
+"cat": "Chicken & Fish",
+"cal": 280,
+"protein": 13,
+"carbs": 38.25,
+"fat": 9.75,
+"sodium": 580,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "20 Pc. Chicken Nuggets",
+"cat": "Chicken & Fish",
+"cal": 1030,
+"protein": 53,
+"carbs": 62,
+"fat": 64,
+"sodium": 1820,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "10 Pc. Chicken Nuggets",
+"cat": "Chicken & Fish",
+"cal": 520,
+"protein": 26,
+"carbs": 31,
+"fat": 32,
+"sodium": 910,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "6 Pc. Chicken Nuggets",
+"cat": "Chicken & Fish",
+"cal": 310,
+"protein": 16,
+"carbs": 19,
+"fat": 19,
+"sodium": 550,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "4 Pc. Chicken Nuggets",
+"cat": "Chicken & Fish",
+"cal": 210,
+"protein": 11,
+"carbs": 12,
+"fat": 13,
+"sodium": 360,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Big Fish",
+"cat": "Chicken & Fish",
+"cal": 398,
+"protein": 19,
+"carbs": 55,
+"fat": 13,
+"sodium": 910,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Spicy Big Fish",
+"cat": "Chicken & Fish",
+"cal": 389,
+"protein": 19,
+"carbs": 54.25,
+"fat": 12.125,
+"sodium": 907.5,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Classic Original Chicken Wrap",
+"cat": "Chicken & Fish",
+"cal": 156,
+"protein": 13,
+"carbs": 30,
+"fat": 1,
+"sodium": 580,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Spicy Original Chicken Wrap",
+"cat": "Chicken & Fish",
+"cal": 175,
+"protein": 13,
+"carbs": 29.64,
+"fat": 3.88,
+"sodium": 624.8,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Honey Mustard Original Chicken Wrap",
+"cat": "Chicken & Fish",
+"cal": 226,
+"protein": 13,
+"carbs": 29,
+"fat": 9,
+"sodium": 700,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Spicy Original Chicken Sandwich",
+"cat": "Chicken & Fish",
+"cal": 578,
+"protein": 23,
+"carbs": 63,
+"fat": 26,
+"sodium": 1380,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Royal Crispy Wrap",
+"cat": "Chicken & Fish",
+"cal": 156,
+"protein": 15,
+"carbs": 27,
+"fat": 1,
+"sodium": 550,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Spicy Royal Crispy Wrap",
+"cat": "Chicken & Fish",
+"cal": 146,
+"protein": 15,
+"carbs": 27,
+"fat": 0,
+"sodium": 540,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Honey Mustard Royal Crispy Wrap",
+"cat": "Chicken & Fish",
+"cal": 226,
+"protein": 15,
+"carbs": 26,
+"fat": 9,
+"sodium": 660,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Flame-Grilled Chicken Sandwich",
+"cat": "Chicken & Fish",
+"cal": 329,
+"protein": 35,
+"carbs": 42.5,
+"fat": 7,
+"sodium": 820,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Bacon and Swiss Flame-Grilled Chicken Sandwich",
+"cat": "Chicken & Fish",
+"cal": 329,
+"protein": 34,
+"carbs": 42.5,
+"fat": 7,
+"sodium": 819.999,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Spicy Flame-Grilled Chicken Sandwich",
+"cat": "Chicken & Fish",
+"cal": 320,
+"protein": 35,
+"carbs": 41.75,
+"fat": 6.125,
+"sodium": 817.5,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Classic Flame-Grilled Chicken Wrap",
+"cat": "Chicken & Fish",
+"cal": 176,
+"protein": 17,
+"carbs": 20.6,
+"fat": 4.6,
+"sodium": 544,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Honey Mustard Flame-Grilled Chicken Wrap",
+"cat": "Chicken & Fish",
+"cal": 166,
+"protein": 17,
+"carbs": 20,
+"fat": 4,
+"sodium": 510,
+"allergens": [
+"egg",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Spicy Flame-Grilled Chicken Wrap",
+"cat": "Chicken & Fish",
+"cal": 166,
+"protein": 17,
+"carbs": 20.6,
+"fat": 4.6,
+"sodium": 534,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"soy"
+]
+},
+{
+"name": "12 Pc. Chicken Fries",
+"cat": "Chicken & Fish",
+"cal": 340,
+"protein": 20,
+"carbs": 25,
+"fat": 18,
+"sodium": 1030,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "8 Pc. Chicken Fries",
+"cat": "Chicken & Fish",
+"cal": 220,
+"protein": 13,
+"carbs": 16,
+"fat": 12,
+"sodium": 680,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "4 Pc. Chicken Fries",
+"cat": "Chicken & Fish",
+"cal": 110,
+"protein": 7,
+"carbs": 8,
+"fat": 6,
+"sodium": 330,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Value French Fries",
+"cat": "Sides",
+"cal": 230,
+"protein": 3,
+"carbs": 31,
+"fat": 10,
+"sodium": -134.24,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Small French Fries",
+"cat": "Sides",
+"cal": 300,
+"protein": 4,
+"carbs": 40,
+"fat": 13,
+"sodium": -175.654,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Medium French Fries",
+"cat": "Sides",
+"cal": 370,
+"protein": 5,
+"carbs": 50,
+"fat": 17,
+"sodium": -227.067,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Large French Fries",
+"cat": "Sides",
+"cal": 440,
+"protein": 6,
+"carbs": 60,
+"fat": 20,
+"sodium": -268.48,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Value Onion Rings",
+"cat": "Sides",
+"cal": 20,
+"protein": 2,
+"carbs": 19,
+"fat": -8,
+"sodium": 70,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Small Onion Rings",
+"cat": "Sides",
+"cal": 80,
+"protein": 3,
+"carbs": 28,
+"fat": -5,
+"sodium": 180,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Medium Onion Rings",
+"cat": "Sides",
+"cal": 140,
+"protein": 4,
+"carbs": 36,
+"fat": -3,
+"sodium": 300,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Large Onion Rings",
+"cat": "Sides",
+"cal": 280,
+"protein": 5,
+"carbs": 54,
+"fat": 4,
+"sodium": 540,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Value Have-sies\u2122",
+"cat": "Sides",
+"cal": 70,
+"protein": 3,
+"carbs": 24,
+"fat": -7,
+"sodium": 50,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Small Have-sies\u2122",
+"cat": "Sides",
+"cal": 130,
+"protein": 4,
+"carbs": 35,
+"fat": -3,
+"sodium": 160,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Medium Have-sies\u2122",
+"cat": "Sides",
+"cal": 200,
+"protein": 4,
+"carbs": 44,
+"fat": 0,
+"sodium": 260,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Large Have-sies\u2122",
+"cat": "Sides",
+"cal": 340,
+"protein": 6,
+"carbs": 64,
+"fat": 7,
+"sodium": 470,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "8 Pc. Cheesy Bacon Tots",
+"cat": "Sides",
+"cal": 260,
+"protein": 8,
+"carbs": 33,
+"fat": 11,
+"sodium": 990,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "4 Pc. Cheesy Bacon Tots",
+"cat": "Sides",
+"cal": 130,
+"protein": 4,
+"carbs": 16,
+"fat": 5,
+"sodium": 500,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "8 Pc. Jalape\u00f1o Cheddar Bites",
+"cat": "Sides",
+"cal": 460,
+"protein": 13,
+"carbs": 54,
+"fat": 21,
+"sodium": 1410,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "4 Pc. Jalape\u00f1o Cheddar Bites",
+"cat": "Sides",
+"cal": 230,
+"protein": 6,
+"carbs": 27,
+"fat": 11,
+"sodium": 700,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Mott's\u00ae Applesauce",
+"cat": "Sides",
+"cal": 50,
+"protein": 0,
+"carbs": 13,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "12 Pc. Mozzarella Fries",
+"cat": "Sides",
+"cal": 610,
+"protein": 23,
+"carbs": 61,
+"fat": 34,
+"sodium": 1610,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "8 Pc. Mozzarella Fries",
+"cat": "Sides",
+"cal": 440,
+"protein": 19,
+"carbs": 48,
+"fat": 24,
+"sodium": 1570,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "4 Pc. Mozzarella Fries",
+"cat": "Sides",
+"cal": 195,
+"protein": 7,
+"carbs": 19,
+"fat": 11,
+"sodium": 460,
+"allergens": [
+"dairy",
+"fish",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Value Coca-Cola",
+"cat": "Drinks & Coffee",
+"cal": 140,
+"protein": 0,
+"carbs": 39,
+"fat": 0,
+"sodium": 35,
+"allergens": []
+},
+{
+"name": "Small Coca-Cola",
+"cat": "Drinks & Coffee",
+"cal": 180,
+"protein": 0,
+"carbs": 50,
+"fat": 0,
+"sodium": 45,
+"allergens": []
+},
+{
+"name": "Medium Coca-Cola",
+"cat": "Drinks & Coffee",
+"cal": 270,
+"protein": 0,
+"carbs": 70,
+"fat": 0,
+"sodium": 65,
+"allergens": []
+},
+{
+"name": "Large Coca-Cola",
+"cat": "Drinks & Coffee",
+"cal": 320,
+"protein": 0,
+"carbs": 88,
+"fat": 0,
+"sodium": 80,
+"allergens": []
+},
+{
+"name": "Value Sweetened Iced Tea",
+"cat": "Drinks & Coffee",
+"cal": 90,
+"protein": 0,
+"carbs": 22,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Small Sweetened Iced Tea",
+"cat": "Drinks & Coffee",
+"cal": 130,
+"protein": 0,
+"carbs": 32,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Medium Sweetened Iced Tea",
+"cat": "Drinks & Coffee",
+"cal": 170,
+"protein": 0,
+"carbs": 44,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Large Sweetened Iced Tea",
+"cat": "Drinks & Coffee",
+"cal": 240,
+"protein": 0,
+"carbs": 59,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Value Sprite",
+"cat": "Drinks & Coffee",
+"cal": 130,
+"protein": 0,
+"carbs": 35,
+"fat": 0,
+"sodium": 35,
+"allergens": []
+},
+{
+"name": "Small Sprite",
+"cat": "Drinks & Coffee",
+"cal": 170,
+"protein": 0,
+"carbs": 45,
+"fat": 0,
+"sodium": 45,
+"allergens": []
+},
+{
+"name": "Medium Sprite",
+"cat": "Drinks & Coffee",
+"cal": 260,
+"protein": 0,
+"carbs": 68,
+"fat": 0,
+"sodium": 70,
+"allergens": []
+},
+{
+"name": "Large Sprite",
+"cat": "Drinks & Coffee",
+"cal": 310,
+"protein": 0,
+"carbs": 81,
+"fat": 0,
+"sodium": 80,
+"allergens": []
+},
+{
+"name": "Small Sprite Zero",
+"cat": "Drinks & Coffee",
+"cal": 5,
+"protein": 0,
+"carbs": 0,
+"fat": 0,
+"sodium": 50,
+"allergens": []
+},
+{
+"name": "Medium Sprite Zero",
+"cat": "Drinks & Coffee",
+"cal": 10,
+"protein": 0,
+"carbs": 0,
+"fat": 0,
+"sodium": 70,
+"allergens": []
+},
+{
+"name": "Large Sprite Zero",
+"cat": "Drinks & Coffee",
+"cal": 10,
+"protein": 0,
+"carbs": 0,
+"fat": 0,
+"sodium": 85,
+"allergens": []
+},
+{
+"name": "Value Barqs Root Beer",
+"cat": "Drinks & Coffee",
+"cal": 150,
+"protein": 0,
+"carbs": 42,
+"fat": 0,
+"sodium": 35,
+"allergens": []
+},
+{
+"name": "Small Barqs Root Beer",
+"cat": "Drinks & Coffee",
+"cal": 200,
+"protein": 0,
+"carbs": 54,
+"fat": 0,
+"sodium": 45,
+"allergens": []
+},
+{
+"name": "Medium Barq's Root Beer",
+"cat": "Drinks & Coffee",
+"cal": 300,
+"protein": 0,
+"carbs": 81,
+"fat": 0,
+"sodium": 70,
+"allergens": []
+},
+{
+"name": "Large Barq's Root Beer",
+"cat": "Drinks & Coffee",
+"cal": 350,
+"protein": 0,
+"carbs": 96,
+"fat": 0,
+"sodium": 80,
+"allergens": []
+},
+{
+"name": "Value Dr Pepper\u00ae",
+"cat": "Drinks & Coffee",
+"cal": 130,
+"protein": 0,
+"carbs": 36,
+"fat": 0,
+"sodium": 35,
+"allergens": []
+},
+{
+"name": "Small Dr Pepper\u00ae",
+"cat": "Drinks & Coffee",
+"cal": 170,
+"protein": 0,
+"carbs": 46,
+"fat": 0,
+"sodium": 45,
+"allergens": []
+},
+{
+"name": "Medium Dr Pepper\u00ae",
+"cat": "Drinks & Coffee",
+"cal": 260,
+"protein": 0,
+"carbs": 70,
+"fat": 0,
+"sodium": 70,
+"allergens": []
+},
+{
+"name": "Large Dr Pepper\u00ae",
+"cat": "Drinks & Coffee",
+"cal": 310,
+"protein": 0,
+"carbs": 82,
+"fat": 0,
+"sodium": 85,
+"allergens": []
+},
+{
+"name": "Value Fanta Orange",
+"cat": "Drinks & Coffee",
+"cal": 140,
+"protein": 0,
+"carbs": 38,
+"fat": 0,
+"sodium": 35,
+"allergens": []
+},
+{
+"name": "Small Fanta Orange",
+"cat": "Drinks & Coffee",
+"cal": 180,
+"protein": 0,
+"carbs": 49,
+"fat": 0,
+"sodium": 45,
+"allergens": []
+},
+{
+"name": "Medium Fanta Orange",
+"cat": "Drinks & Coffee",
+"cal": 280,
+"protein": 0,
+"carbs": 74,
+"fat": 0,
+"sodium": 70,
+"allergens": []
+},
+{
+"name": "Large Fanta Orange",
+"cat": "Drinks & Coffee",
+"cal": 330,
+"protein": 0,
+"carbs": 88,
+"fat": 0,
+"sodium": 85,
+"allergens": []
+},
+{
+"name": "Value Mello Yello",
+"cat": "Drinks & Coffee",
+"cal": 120,
+"protein": 0,
+"carbs": 33,
+"fat": 0,
+"sodium": 35,
+"allergens": []
+},
+{
+"name": "Small Mello Yello",
+"cat": "Drinks & Coffee",
+"cal": 160,
+"protein": 0,
+"carbs": 43,
+"fat": 0,
+"sodium": 45,
+"allergens": []
+},
+{
+"name": "Medium Mello Yello",
+"cat": "Drinks & Coffee",
+"cal": 240,
+"protein": 0,
+"carbs": 64,
+"fat": 0,
+"sodium": 70,
+"allergens": []
+},
+{
+"name": "Large Mello Yello",
+"cat": "Drinks & Coffee",
+"cal": 280,
+"protein": 0,
+"carbs": 76,
+"fat": 0,
+"sodium": 80,
+"allergens": []
+},
+{
+"name": "Value Powerade Zero",
+"cat": "Drinks & Coffee",
+"cal": 5,
+"protein": 0,
+"carbs": 0,
+"fat": 0,
+"sodium": 110,
+"allergens": []
+},
+{
+"name": "Small Powerade Zero",
+"cat": "Drinks & Coffee",
+"cal": 10,
+"protein": 0,
+"carbs": 0,
+"fat": 0,
+"sodium": 140,
+"allergens": []
+},
+{
+"name": "Medium Powerade Zero",
+"cat": "Drinks & Coffee",
+"cal": 10,
+"protein": 0,
+"carbs": 0,
+"fat": 0,
+"sodium": 210,
+"allergens": []
+},
+{
+"name": "Large Powerade Zero",
+"cat": "Drinks & Coffee",
+"cal": 15,
+"protein": 0,
+"carbs": 0,
+"fat": 0,
+"sodium": 250,
+"allergens": []
+},
+{
+"name": "Value Hi-C\u00ae Fruit Punch",
+"cat": "Drinks & Coffee",
+"cal": 160,
+"protein": 0,
+"carbs": 41,
+"fat": 0,
+"sodium": 35,
+"allergens": []
+},
+{
+"name": "Small Hi-C\u00ae Fruit Punch",
+"cat": "Drinks & Coffee",
+"cal": 210,
+"protein": 0,
+"carbs": 53,
+"fat": 0,
+"sodium": 45,
+"allergens": []
+},
+{
+"name": "Medium Hi-C\u00ae Fruit Punch",
+"cat": "Drinks & Coffee",
+"cal": 310,
+"protein": 0,
+"carbs": 79,
+"fat": 0,
+"sodium": 65,
+"allergens": []
+},
+{
+"name": "Large Hi-C\u00ae Fruit Punch",
+"cat": "Drinks & Coffee",
+"cal": 370,
+"protein": 0,
+"carbs": 94,
+"fat": 0,
+"sodium": 80,
+"allergens": []
+},
+{
+"name": "Value Hi-C\u00ae Pink Lemonade",
+"cat": "Drinks & Coffee",
+"cal": 130,
+"protein": 0,
+"carbs": 36,
+"fat": 0,
+"sodium": 95,
+"allergens": []
+},
+{
+"name": "Small Hi-C\u00ae Pink Lemonade",
+"cat": "Drinks & Coffee",
+"cal": 170,
+"protein": 0,
+"carbs": 46,
+"fat": 0,
+"sodium": 125,
+"allergens": []
+},
+{
+"name": "Medium Hi-C\u00ae Pink Lemonade",
+"cat": "Drinks & Coffee",
+"cal": 250,
+"protein": 0,
+"carbs": 69,
+"fat": 0,
+"sodium": 180,
+"allergens": []
+},
+{
+"name": "Large Hi-C\u00ae Pink Lemonade",
+"cat": "Drinks & Coffee",
+"cal": 300,
+"protein": 0,
+"carbs": 82,
+"fat": 0,
+"sodium": 220,
+"allergens": []
+},
+{
+"name": "Value Hi-C\u00ae Orange",
+"cat": "Drinks & Coffee",
+"cal": 190,
+"protein": 0,
+"carbs": 49,
+"fat": 0,
+"sodium": 40,
+"allergens": []
+},
+{
+"name": "Small Hi-C\u00ae Orange",
+"cat": "Drinks & Coffee",
+"cal": 240,
+"protein": 0,
+"carbs": 63,
+"fat": 0,
+"sodium": 55,
+"allergens": []
+},
+{
+"name": "Medium Hi-C\u00ae Orange",
+"cat": "Drinks & Coffee",
+"cal": 360,
+"protein": 0,
+"carbs": 95,
+"fat": 0,
+"sodium": 80,
+"allergens": []
+},
+{
+"name": "Large Hi-C\u00ae Orange",
+"cat": "Drinks & Coffee",
+"cal": 430,
+"protein": 0,
+"carbs": 113,
+"fat": 0,
+"sodium": 95,
+"allergens": []
+},
+{
+"name": "Kids Signature Mango Peach Lemonade",
+"cat": "Drinks & Coffee",
+"cal": 150,
+"protein": 0,
+"carbs": 37,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Small Signature Mango Peach Lemonade",
+"cat": "Drinks & Coffee",
+"cal": 200,
+"protein": 0,
+"carbs": 50,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Medium Signature Mango Peach Lemonade",
+"cat": "Drinks & Coffee",
+"cal": 250,
+"protein": 0,
+"carbs": 63,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Large Signature Mango Peach Lemonade",
+"cat": "Drinks & Coffee",
+"cal": 360,
+"protein": 0,
+"carbs": 92,
+"fat": 0,
+"sodium": 0,
+"allergens": [
+"soy"
+]
+},
+{
+"name": "Kids Signature Strawberry Lemonade",
+"cat": "Drinks & Coffee",
+"cal": 150,
+"protein": 0,
+"carbs": 38,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Small Signature Strawberry Lemonade",
+"cat": "Drinks & Coffee",
+"cal": 200,
+"protein": 0,
+"carbs": 50,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Medium Signature Strawberry Lemonade",
+"cat": "Drinks & Coffee",
+"cal": 250,
+"protein": 0,
+"carbs": 63,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Large Signature Strawberry Lemonade",
+"cat": "Drinks & Coffee",
+"cal": 500,
+"protein": 2,
+"carbs": 120,
+"fat": 0,
+"sodium": 20,
+"allergens": []
+},
+{
+"name": "Small Minute Maid\u00ae Lemonade",
+"cat": "Drinks & Coffee",
+"cal": 190,
+"protein": 0,
+"carbs": 50,
+"fat": 0,
+"sodium": 45,
+"allergens": []
+},
+{
+"name": "Medium Minute Maid\u00ae Lemonade",
+"cat": "Drinks & Coffee",
+"cal": 290,
+"protein": 0,
+"carbs": 76,
+"fat": 0,
+"sodium": 70,
+"allergens": []
+},
+{
+"name": "Large Minute Maid\u00ae Lemonade",
+"cat": "Drinks & Coffee",
+"cal": 340,
+"protein": 0,
+"carbs": 90,
+"fat": 0,
+"sodium": 80,
+"allergens": []
+},
+{
+"name": "Honest Kids\u00ae Apple Juice Drink",
+"cat": "Drinks & Coffee",
+"cal": 35,
+"protein": 0,
+"carbs": 9,
+"fat": 0,
+"sodium": 10,
+"allergens": []
+},
+{
+"name": "Classic Oreo\u00ae Shake",
+"cat": "Drinks & Coffee",
+"cal": 640,
+"protein": 13,
+"carbs": 109,
+"fat": 17,
+"sodium": 460,
+"allergens": [
+"dairy",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Chocolate Oreo\u00ae Shake",
+"cat": "Drinks & Coffee",
+"cal": 670,
+"protein": 13,
+"carbs": 116,
+"fat": 17,
+"sodium": 470,
+"allergens": [
+"dairy",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Chocolate Shake",
+"cat": "Drinks & Coffee",
+"cal": 590,
+"protein": 13,
+"carbs": 103,
+"fat": 14,
+"sodium": 420,
+"allergens": [
+"dairy",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Vanilla Shake",
+"cat": "Drinks & Coffee",
+"cal": 560,
+"protein": 12,
+"carbs": 96,
+"fat": 14,
+"sodium": 400,
+"allergens": [
+"dairy",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Strawberry Shake",
+"cat": "Drinks & Coffee",
+"cal": 610,
+"protein": 12,
+"carbs": 110,
+"fat": 14,
+"sodium": 420,
+"allergens": [
+"dairy",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Vampire's Bite Strawberry and Sprite\u00ae",
+"cat": "Drinks & Coffee",
+"cal": 380,
+"protein": 0,
+"carbs": 110,
+"fat": -1,
+"sodium": 55,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Small Coke\u00ae Freezee King",
+"cat": "Drinks & Coffee",
+"cal": 100,
+"protein": 0,
+"carbs": 26,
+"fat": 0,
+"sodium": 40,
+"allergens": []
+},
+{
+"name": "Medium Coke\u00ae Freezee King",
+"cat": "Drinks & Coffee",
+"cal": 130,
+"protein": 0,
+"carbs": 35,
+"fat": 0,
+"sodium": 50,
+"allergens": []
+},
+{
+"name": "Large Coke\u00ae Freezee King",
+"cat": "Drinks & Coffee",
+"cal": 160,
+"protein": 0,
+"carbs": 44,
+"fat": 0,
+"sodium": 65,
+"allergens": []
+},
+{
+"name": "Small Fanta\u00ae Strawberry Freezee King",
+"cat": "Drinks & Coffee",
+"cal": 100,
+"protein": 0,
+"carbs": 26,
+"fat": 0,
+"sodium": 45,
+"allergens": []
+},
+{
+"name": "Medium Fanta\u00ae Strawberry Freezee King",
+"cat": "Drinks & Coffee",
+"cal": 130,
+"protein": 0,
+"carbs": 34,
+"fat": 0,
+"sodium": 60,
+"allergens": []
+},
+{
+"name": "Large Fanta\u00ae Strawberry Freezee King",
+"cat": "Drinks & Coffee",
+"cal": 160,
+"protein": 0,
+"carbs": 43,
+"fat": 0,
+"sodium": 75,
+"allergens": []
+},
+{
+"name": "Small Fanta\u00ae Blue Raspberry Freezee King",
+"cat": "Drinks & Coffee",
+"cal": 100,
+"protein": 0,
+"carbs": 26,
+"fat": 0,
+"sodium": 45,
+"allergens": []
+},
+{
+"name": "Medium Fanta\u00ae Blue Raspberry Freezee King",
+"cat": "Drinks & Coffee",
+"cal": 130,
+"protein": 0,
+"carbs": 34,
+"fat": 0,
+"sodium": 60,
+"allergens": []
+},
+{
+"name": "Large Fanta\u00ae Blue Raspberry Freezee King",
+"cat": "Drinks & Coffee",
+"cal": 160,
+"protein": 0,
+"carbs": 43,
+"fat": 0,
+"sodium": 75,
+"allergens": []
+},
+{
+"name": "Small Plain Iced Coffee",
+"cat": "Drinks & Coffee",
+"cal": 150,
+"protein": 1,
+"carbs": 21,
+"fat": 7,
+"sodium": 35,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Medium Plain Iced Coffee",
+"cat": "Drinks & Coffee",
+"cal": 200,
+"protein": 2,
+"carbs": 27,
+"fat": 9,
+"sodium": 45,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Large Plain Iced Coffee",
+"cat": "Drinks & Coffee",
+"cal": 260,
+"protein": 2,
+"carbs": 35,
+"fat": 12,
+"sodium": 60,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Extra Large Plain Iced Coffee",
+"cat": "Drinks & Coffee",
+"cal": 390,
+"protein": 3,
+"carbs": 53,
+"fat": 18,
+"sodium": 70,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Small Mocha Iced Coffee",
+"cat": "Drinks & Coffee",
+"cal": 160,
+"protein": 2,
+"carbs": 21,
+"fat": 7,
+"sodium": 45,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Medium Mocha Iced Coffee",
+"cat": "Drinks & Coffee",
+"cal": 200,
+"protein": 2,
+"carbs": 27,
+"fat": 10,
+"sodium": 60,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Large Mocha Iced Coffee",
+"cat": "Drinks & Coffee",
+"cal": 260,
+"protein": 3,
+"carbs": 34,
+"fat": 12,
+"sodium": 75,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Extra Large Mocha Iced Coffee",
+"cat": "Drinks & Coffee",
+"cal": 400,
+"protein": 4,
+"carbs": 52,
+"fat": 19,
+"sodium": 115,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Small Vanilla Iced Coffee",
+"cat": "Drinks & Coffee",
+"cal": 150,
+"protein": 1,
+"carbs": 20,
+"fat": 7,
+"sodium": 35,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Medium Vanilla Iced Coffee",
+"cat": "Drinks & Coffee",
+"cal": 200,
+"protein": 2,
+"carbs": 27,
+"fat": 9,
+"sodium": 45,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Large Vanilla Iced Coffee",
+"cat": "Drinks & Coffee",
+"cal": 250,
+"protein": 2,
+"carbs": 34,
+"fat": 12,
+"sodium": 60,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Extra Large Vanilla Iced Coffee",
+"cat": "Drinks & Coffee",
+"cal": 390,
+"protein": 3,
+"carbs": 51,
+"fat": 19,
+"sodium": 90,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Fat Free Milk",
+"cat": "Drinks & Coffee",
+"cal": 100,
+"protein": 10,
+"carbs": 15,
+"fat": 0,
+"sodium": 140,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Chocolate Milk",
+"cat": "Drinks & Coffee",
+"cal": 170,
+"protein": 10,
+"carbs": 28.06,
+"fat": 2.36,
+"sodium": 184.57,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Simply\u00ae Orange Juice",
+"cat": "Drinks & Coffee",
+"cal": 160,
+"protein": 2,
+"carbs": 35,
+"fat": 1.5,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "HERSHEY'S\u00ae Sundae Pie",
+"cat": "Sweets",
+"cal": 310,
+"protein": 3,
+"carbs": 32,
+"fat": 18,
+"sodium": 230,
+"allergens": [
+"dairy",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Soft Serve Cup",
+"cat": "Sweets",
+"cal": 180,
+"protein": 4,
+"carbs": 28,
+"fat": 5,
+"sodium": 150,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Soft Serve Cone",
+"cat": "Sweets",
+"cal": 200,
+"protein": 5,
+"carbs": 33,
+"fat": 5,
+"sodium": 150,
+"allergens": [
+"dairy",
+"gluten"
+]
+},
+{
+"name": "2 Chocolate Chip Cookies",
+"cat": "Sweets",
+"cal": 320,
+"protein": 4,
+"carbs": 46,
+"fat": 15,
+"sodium": 220,
+"allergens": [
+"dairy",
+"egg",
+"gluten",
+"soy"
+]
+},
+{
+"name": "Nacho Cheese Sauce",
+"cat": "Condiments",
+"cal": 110,
+"protein": 2,
+"carbs": 7,
+"fat": 9,
+"sodium": 790,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Hidden Valley\u2122 Ranch Dipping Sauce",
+"cat": "Condiments",
+"cal": 110,
+"protein": 0,
+"carbs": 1,
+"fat": 11,
+"sodium": 220,
+"allergens": [
+"dairy",
+"egg",
+"soy"
+]
+},
+{
+"name": "Zesty Sauce",
+"cat": "Condiments",
+"cal": 140,
+"protein": 0,
+"carbs": 3,
+"fat": 14,
+"sodium": 210,
+"allergens": [
+"egg",
+"soy"
+]
+},
+{
+"name": "BBQ Sauce",
+"cat": "Condiments",
+"cal": 35,
+"protein": 0,
+"carbs": 8,
+"fat": 0,
+"sodium": 220,
+"allergens": []
+},
+{
+"name": "Honey Mustard Sauce",
+"cat": "Condiments",
+"cal": 110,
+"protein": 0,
+"carbs": 8,
+"fat": 8,
+"sodium": 190,
+"allergens": [
+"egg"
+]
+},
+{
+"name": "Special Savory Sauce",
+"cat": "Condiments",
+"cal": 116,
+"protein": 0.42,
+"carbs": 4.5,
+"fat": 10.87,
+"sodium": 261.38,
+"allergens": [
+"egg"
+]
+},
+{
+"name": "Sweet & Sour Sauce",
+"cat": "Condiments",
+"cal": 70,
+"protein": 0,
+"carbs": 18,
+"fat": 0,
+"sodium": 310,
+"allergens": []
+},
+{
+"name": "Buffalo Sauce",
+"cat": "Condiments",
+"cal": 70,
+"protein": 0,
+"carbs": 1,
+"fat": 7,
+"sodium": 510,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Marinara Dipping Sauce",
+"cat": "Condiments",
+"cal": 25,
+"protein": 3,
+"carbs": 5,
+"fat": 1,
+"sodium": 330,
+"allergens": []
+},
+{
+"name": "Syrup Packet",
+"cat": "Condiments",
+"cal": 94.57,
+"protein": 0,
+"carbs": 23.97,
+"fat": 0,
+"sodium": 25.27,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Ketchup Packet",
+"cat": "Condiments",
+"cal": 9.59,
+"protein": 0.09,
+"carbs": 2.17,
+"fat": 0.01,
+"sodium": 88.62,
+"allergens": [
+"gluten"
+]
+},
+{
+"name": "Mayo Packet",
+"cat": "Condiments",
+"cal": 86.95,
+"protein": 0.14,
+"carbs": 0.26,
+"fat": 9.46,
+"sodium": 66.13,
+"allergens": [
+"dairy",
+"egg",
+"fish",
+"gluten",
+"sesame",
+"soy"
+]
+},
+{
+"name": "Mustard Packet",
+"cat": "Condiments",
+"cal": 5,
+"protein": 0.26,
+"carbs": 0.32,
+"fat": 0.25,
+"sodium": 65.77,
+"allergens": []
+},
+{
+"name": "Picante Sauce Packet",
+"cat": "Condiments",
+"cal": 10,
+"protein": 0,
+"carbs": 1,
+"fat": 0,
+"sodium": 150,
+"allergens": []
+},
+{
+"name": "Honey Packet",
+"cat": "Condiments",
+"cal": 45,
+"protein": 0,
+"carbs": 12,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Creamer",
+"cat": "Condiments",
+"cal": 15,
+"protein": 0,
+"carbs": 0.5,
+"fat": 1,
+"sodium": 10,
+"allergens": [
+"dairy"
+]
+},
+{
+"name": "Pure Sugar Packet",
+"cat": "Condiments",
+"cal": 10,
+"protein": 0,
+"carbs": 3,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Sugar Substitute Packet",
+"cat": "Condiments",
+"cal": 3,
+"protein": 0,
+"carbs": 0.9,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Strawberry Jelly Packet",
+"cat": "Condiments",
+"cal": 25,
+"protein": 0,
+"carbs": 7,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Grape Jelly Packet",
+"cat": "Condiments",
+"cal": 25,
+"protein": 0,
+"carbs": 7,
+"fat": 0,
+"sodium": 0,
+"allergens": []
+},
+{
+"name": "Butter Blend",
+"cat": "Condiments",
+"cal": 50,
+"protein": 0,
+"carbs": 0,
+"fat": 6,
+"sodium": 45,
+"allergens": [
+"soy"
+]
+}
+]

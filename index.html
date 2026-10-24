@@ -4,22 +4,21 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Eats Fit">
 <title>Jonesboro Eats Fit</title>
 <link rel="manifest" href="manifest.webmanifest"><link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
-<link rel="stylesheet" href="vendor/leaflet.css"><link rel="stylesheet" href="app.css"></head><body>
+<link rel="stylesheet" href="app.css"></head><body>
 <header><h1>Jonesboro <span>Eats Fit</span></h1><span id="net" class="pill"></span></header>
-<nav id="tabs"><button data-v="list" class="on">Places</button><button data-v="map">Map</button><button data-v="snacks">Kroger snacks</button><button data-v="profile">Profile</button></nav>
+<nav id="tabs"><button data-v="list" class="on">Places</button><button data-v="snacks">Kroger snacks</button><button data-v="profile">Profile</button></nav>
 <section id="filters" class="card">
  <input id="q" type="search" placeholder="Search restaurants or dishes">
  <div class="row"><label><input type="checkbox" id="fHP"> High protein (≥30 g)</label>
  <label>Under <input type="number" id="fMax" inputmode="numeric" placeholder="cal" style="width:5.5em"> cal</label></div>
- <div class="row"><label><input type="checkbox" id="fData" checked> Only places with data</label>
+ <div class="row"><label><input type="checkbox" id="fData"> Only places with data</label>
  <label><input type="checkbox" id="fShowAl"> Show items with my allergens (warned)</label></div>
 </section>
 <main>
 <section id="v-list" class="view"></section>
-<section id="v-map" class="view hidden"><div id="map"></div></section>
 <section id="v-snacks" class="view hidden"></section>
 <section id="v-profile" class="view hidden"></section>
 <section id="v-detail" class="view hidden"></section>
 </main>
-<footer>Restaurant locations © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a> (ODbL). <b class="off">Official</b> = from the chain's own nutrition page/PDF or USDA FoodData Central branded label data. <b class="est">Estimated</b> = our estimate from a real menu + typical recipes and USDA generic foods; not restaurant-provided. Allergen info can be incomplete — always confirm with staff.</footer>
-<script src="vendor/leaflet.js"></script><script src="app.js"></script></body></html>
+<footer>Restaurant list = every Jonesboro, AR restaurant with a DoorDash store page (one entry per brand; not affiliated with DoorDash). <b class="off">Official</b> = from the chain's own nutrition page/PDF or USDA FoodData Central branded label data. <b class="est">Estimated</b> = our estimate from a real menu + typical recipes and USDA generic foods; not restaurant-provided. Allergen info can be incomplete — always confirm with staff.</footer>
+<script src="app.js"></script></body></html>

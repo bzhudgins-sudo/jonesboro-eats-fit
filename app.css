@@ -7,7 +7,7 @@ nav button.on,.btn.pri{background:var(--ok);color:#06210f;border-color:var(--ok)
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px;margin:8px 10px}
 #filters input[type=search],input[type=number],input[type=text],select,textarea{width:100%;background:#0b1424;color:var(--tx);border:1px solid var(--line);border-radius:10px;padding:9px;font-size:16px}
 .row{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:8px;font-size:14px;color:var(--mut)}.row input[type=number]{display:inline-block;padding:5px}
-.hidden{display:none!important}#map{height:65vh;margin:8px 10px;border-radius:14px}
+.hidden{display:none!important}
 .r{display:flex;justify-content:space-between;gap:8px;align-items:center}.r h3{margin:0;font-size:16px}.sub{color:var(--mut);font-size:13px}
 .pill{font-size:11px;padding:2px 8px;border-radius:999px;border:1px solid var(--line);color:var(--mut);white-space:nowrap}
 .off{color:var(--ok)}.est{color:var(--est)}.pill.off{border-color:var(--ok)}.pill.est{border-color:var(--est)}
