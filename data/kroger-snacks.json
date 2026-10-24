@@ -1,0 +1,1129 @@
+{
+"generated": "2026-10-24",
+"note": "Label nutrition from USDA FoodData Central Branded Foods (manufacturer-submitted). Per-serving values computed from FDC per-100g values x labeled serving size, so they can differ slightly from the printed label due to rounding. Allergen tags are derived from the listed ingredients. Availability at Kroger varies by store.",
+"items": [
+{
+"name": "Simple Truth, Plain Greek Nonfat Yogurt",
+"brand": "SIMPLE TRUTH",
+"serving": "150 g (1 CONTAINER)",
+"cal": 80,
+"protein": 15.0,
+"carbs": 5.0,
+"fat": 0.0,
+"sodium": 70,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2340548/nutrients",
+"fdcId": 2340548
+},
+{
+"name": "Simple Truth Organic, Plain Greek Nonfat Yogurt",
+"brand": "SIMPLE TRUTH ORGANIC",
+"serving": "227 g (8 ONZ)",
+"cal": 129,
+"protein": 24.1,
+"carbs": 7.0,
+"fat": 0.0,
+"sodium": 75,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2186095/nutrients",
+"fdcId": 2186095
+},
+{
+"name": "Simple Truth, Walnuts",
+"brand": "SIMPLE TRUTH",
+"serving": "30 g (0.25 cup)",
+"cal": 200,
+"protein": 5.0,
+"carbs": 4.0,
+"fat": 20.0,
+"sodium": 0,
+"allergens": [
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2030535/nutrients",
+"fdcId": 2030535
+},
+{
+"name": "Chobani Yogurt, Greek, Blended, Coffee",
+"brand": "Chobani",
+"serving": "150 g",
+"cal": 140,
+"protein": 11.0,
+"carbs": 18.0,
+"fat": 2.5,
+"sodium": 65,
+"allergens": [
+"dairy",
+"fruit"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2756285/nutrients",
+"fdcId": 2756285
+},
+{
+"name": "Chobani Plain Non- Fat Greek Yogurt",
+"brand": "Chobani",
+"serving": "180 g",
+"cal": 90,
+"protein": 16.0,
+"carbs": 6.0,
+"fat": 0.0,
+"sodium": 65,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2755837/nutrients",
+"fdcId": 2755837
+},
+{
+"name": "Oikos Triple Zero Cherry Blended Greek Yogurt",
+"brand": "Oikos",
+"serving": "150.25 g",
+"cal": 90,
+"protein": 15.0,
+"carbs": 7.0,
+"fat": 0.0,
+"sodium": 60,
+"allergens": [
+"dairy",
+"fruit"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2756849/nutrients",
+"fdcId": 2756849
+},
+{
+"name": "Oikos Triple Zero Peach Nonfat Greek Yogurt",
+"brand": "Oikos",
+"serving": "150.25 g",
+"cal": 90,
+"protein": 15.0,
+"carbs": 10.0,
+"fat": 0.0,
+"sodium": 55,
+"allergens": [
+"dairy",
+"fruit"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2756842/nutrients",
+"fdcId": 2756842
+},
+{
+"name": "Oikos Triple Zero Vanilla Nonfat Greek Yogurt",
+"brand": "Oikos",
+"serving": "150.25 g",
+"cal": 90,
+"protein": 15.0,
+"carbs": 0.0,
+"fat": 0.0,
+"sodium": 55,
+"allergens": [
+"dairy",
+"fruit"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2756122/nutrients",
+"fdcId": 2756122
+},
+{
+"name": "Fairlife Milk, Ultra- Filtered",
+"brand": "fairlife",
+"serving": "240 g",
+"cal": 100,
+"protein": 13.0,
+"carbs": 6.0,
+"fat": 2.5,
+"sodium": 120,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2757397/nutrients",
+"fdcId": 2757397
+},
+{
+"name": "Fairlife Whole Ultra- Filtered Milk",
+"brand": "fairlife",
+"serving": "240 g",
+"cal": 150,
+"protein": 13.0,
+"carbs": 6.0,
+"fat": 8.0,
+"sodium": 120,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2757704/nutrients",
+"fdcId": 2757704
+},
+{
+"name": "Fairlife Yogurt, Ultra- Filtered, Peach",
+"brand": "fairlife",
+"serving": "170 g",
+"cal": 120,
+"protein": 14.0,
+"carbs": 18.0,
+"fat": 3.0,
+"sodium": 50,
+"allergens": [
+"dairy",
+"fruit"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2756132/nutrients",
+"fdcId": 2756132
+},
+{
+"name": "Fairlife Fat Free Ultra- Filtered Milk",
+"brand": "fairlife",
+"serving": "240 g",
+"cal": 80,
+"protein": 13.0,
+"carbs": 6.0,
+"fat": 0.0,
+"sodium": 120,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2756934/nutrients",
+"fdcId": 2756934
+},
+{
+"name": "High Protein Shake",
+"brand": "PREMIER PROTEIN",
+"serving": "330 ml (1 SHAKE)",
+"cal": 158,
+"protein": 30.0,
+"carbs": 5.0,
+"fat": 3.0,
+"sodium": 271,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2127179/nutrients",
+"fdcId": 2127179
+},
+{
+"name": "Premier Protein, High Protein Bar, Dark Chocolate Mint, Dark Chocolate Mint",
+"brand": "PREMIER PROTEIN",
+"serving": "72 g (1 BAR)",
+"cal": 280,
+"protein": 30.0,
+"carbs": 26.0,
+"fat": 7.0,
+"sodium": 360,
+"allergens": [
+"dairy",
+"soy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2038520/nutrients",
+"fdcId": 2038520
+},
+{
+"name": "High Protein Shake, Caramel",
+"brand": "PREMIER PROTEIN",
+"serving": "330 ml (1 SHAKE)",
+"cal": 158,
+"protein": 30.0,
+"carbs": 5.0,
+"fat": 3.0,
+"sodium": 360,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2488868/nutrients",
+"fdcId": 2488868
+},
+{
+"name": "High Protein Shake, Chocolate",
+"brand": "PREMIER PROTEIN",
+"serving": "330 ml (1 SHAKE)",
+"cal": 158,
+"protein": 30.0,
+"carbs": 5.0,
+"fat": 3.0,
+"sodium": 211,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2489244/nutrients",
+"fdcId": 2489244
+},
+{
+"name": "Quest, Protein Chips, Salt & Vinegar, Salt & Vinegar",
+"brand": "QUEST",
+"serving": "32 g (1.125 ONZ)",
+"cal": 120,
+"protein": 21.0,
+"carbs": 5.0,
+"fat": 2.0,
+"sodium": 290,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/1879529/nutrients",
+"fdcId": 1879529
+},
+{
+"name": "Quest, Protein Chips, Sea Salt, Sea Salt",
+"brand": "QUEST",
+"serving": "32 g (1.125 ONZ)",
+"cal": 120,
+"protein": 21.0,
+"carbs": 5.0,
+"fat": 1.5,
+"sodium": 190,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/1879658/nutrients",
+"fdcId": 1879658
+},
+{
+"name": "Orange Protein Bar, Orange",
+"brand": "RXBAR",
+"serving": "52 g (1 bar)",
+"cal": 210,
+"protein": 12.0,
+"carbs": 24.0,
+"fat": 8.0,
+"sodium": 180,
+"allergens": [
+"egg",
+"fruit",
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/1067103/nutrients",
+"fdcId": 1067103
+},
+{
+"name": "12 G. Protein Bar, Apple Cinnamon",
+"brand": "RXBAR",
+"serving": "52 g (1 BAR)",
+"cal": 210,
+"protein": 12.0,
+"carbs": 24.0,
+"fat": 8.0,
+"sodium": 125,
+"allergens": [
+"egg",
+"fruit",
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2670061/nutrients",
+"fdcId": 2670061
+},
+{
+"name": "12 G. Protein Bar, Mango Pineapple",
+"brand": "RXBAR",
+"serving": "52 g (1 BAR)",
+"cal": 210,
+"protein": 12.0,
+"carbs": 24.0,
+"fat": 7.0,
+"sodium": 140,
+"allergens": [
+"egg",
+"fruit",
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2429764/nutrients",
+"fdcId": 2429764
+},
+{
+"name": "Jack Link'S, Teriyaki Beef Jerky",
+"brand": "JACK LINK'S",
+"serving": "18 g (1 PACKAGE)",
+"cal": 50,
+"protein": 7.0,
+"carbs": 3.0,
+"fat": 0.5,
+"sodium": 301,
+"allergens": [
+"gluten",
+"soy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2675690/nutrients",
+"fdcId": 2675690
+},
+{
+"name": "Jack Link'S, Beef Jerky, Sriracha, Sriracha",
+"brand": "JACK LINK'S",
+"serving": "28 g (1 ONZ)",
+"cal": 80,
+"protein": 12.0,
+"carbs": 4.0,
+"fat": 1.0,
+"sodium": 501,
+"allergens": [
+"fruit",
+"gluten",
+"soy",
+"tomato"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/1865393/nutrients",
+"fdcId": 1865393
+},
+{
+"name": "Jack Link'S, Premium Cuts Beef Jerky",
+"brand": "JACK LINK'S",
+"serving": "28 g (1 ONZ)",
+"cal": 70,
+"protein": 10.0,
+"carbs": 3.0,
+"fat": 1.0,
+"sodium": 680,
+"allergens": [
+"gluten"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2011606/nutrients",
+"fdcId": 2011606
+},
+{
+"name": "Kroger, Jalapeno String Cheese",
+"brand": "KROGER",
+"serving": "24 g (1 PIECE)",
+"cal": 70,
+"protein": 6.0,
+"carbs": 1.0,
+"fat": 4.5,
+"sodium": 190,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2033256/nutrients",
+"fdcId": 2033256
+},
+{
+"name": "Kroger, String Mozzarella Cheese",
+"brand": "KROGER",
+"serving": "28 g (1 PIECE)",
+"cal": 80,
+"protein": 7.0,
+"carbs": 1.0,
+"fat": 6.0,
+"sodium": 200,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2053800/nutrients",
+"fdcId": 2053800
+},
+{
+"name": "Kroger, Mozzarella Twists String Cheese",
+"brand": "KROGER",
+"serving": "24 g (1 PIECE)",
+"cal": 70,
+"protein": 6.0,
+"carbs": 1.0,
+"fat": 5.0,
+"sodium": 170,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2033263/nutrients",
+"fdcId": 2033263
+},
+{
+"name": "Kroger, Low-Moisture Part-Skim Mozzarella String Cheese",
+"brand": "KROGER",
+"serving": "28 g (1 PIECE)",
+"cal": 80,
+"protein": 7.0,
+"carbs": 1.0,
+"fat": 6.0,
+"sodium": 200,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2036254/nutrients",
+"fdcId": 2036254
+},
+{
+"name": "Babybel Semisoft Cheese, Original, Mini",
+"brand": "Babybel",
+"serving": "120 g",
+"cal": 70,
+"protein": 4.0,
+"carbs": 0.0,
+"fat": 5.0,
+"sodium": 0,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2756571/nutrients",
+"fdcId": 2756571
+},
+{
+"name": "Babybel, Semisoft Cheese, Original, Original",
+"brand": "BABYBEL",
+"serving": "21 g (1 PIECE)",
+"cal": 70,
+"protein": 5.0,
+"carbs": 0.0,
+"fat": 6.0,
+"sodium": 160,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/1869803/nutrients",
+"fdcId": 1869803
+},
+{
+"name": "Babybel Semisoft Cheeses Original - 6 Count",
+"brand": "Babybel",
+"serving": "21 g",
+"cal": 70,
+"protein": 5.0,
+"carbs": 0.0,
+"fat": 6.0,
+"sodium": 160,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2757724/nutrients",
+"fdcId": 2757724
+},
+{
+"name": "Mini Babybel Original Semisoft Cheeses - 14Ct",
+"brand": "Babybel",
+"serving": "21 g",
+"cal": 70,
+"protein": 5.0,
+"carbs": 0.0,
+"fat": 6.0,
+"sodium": 160,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2757749/nutrients",
+"fdcId": 2757749
+},
+{
+"name": "Good Culture Cottage Cheese Classic",
+"brand": "Good Culture",
+"serving": "150 g",
+"cal": 110,
+"protein": 19.0,
+"carbs": 3.0,
+"fat": 3.0,
+"sodium": 460,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2755699/nutrients",
+"fdcId": 2755699
+},
+{
+"name": "Good Culture Cottage Cheese, Low- Fat, Classic",
+"brand": "Good Culture",
+"serving": "120 g",
+"cal": 80,
+"protein": 14.0,
+"carbs": 4.0,
+"fat": 3.0,
+"sodium": 340,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2757726/nutrients",
+"fdcId": 2757726
+},
+{
+"name": "Good Culture Cottage Cheese, Whole Milk Classic, 4% Milkfat",
+"brand": "Good Culture",
+"serving": "150 g",
+"cal": 160,
+"protein": 19.0,
+"carbs": 5.0,
+"fat": 7.0,
+"sodium": 460,
+"allergens": [
+"dairy",
+"fruit"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2757361/nutrients",
+"fdcId": 2757361
+},
+{
+"name": "Good Culture Organic Whole Milk Classic Cottage Cheese - 16Oz",
+"brand": "Good Culture",
+"serving": "120 g",
+"cal": 110,
+"protein": 14.0,
+"carbs": 3.0,
+"fat": 4.5,
+"sodium": 340,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2755737/nutrients",
+"fdcId": 2755737
+},
+{
+"name": "Simple Truth, Almonds Sliced",
+"brand": "SIMPLE TRUTH",
+"serving": "30 g (0.25 cup)",
+"cal": 190,
+"protein": 7.0,
+"carbs": 6.0,
+"fat": 15.0,
+"sodium": 0,
+"allergens": [
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2030564/nutrients",
+"fdcId": 2030564
+},
+{
+"name": "Simple Truth Organic, Dark Chocolate Covered Almonds",
+"brand": "SIMPLE TRUTH",
+"serving": "40 g (11 PIECES)",
+"cal": 220,
+"protein": 4.0,
+"carbs": 19.0,
+"fat": 16.0,
+"sodium": 0,
+"allergens": [
+"dairy",
+"soy",
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2030574/nutrients",
+"fdcId": 2030574
+},
+{
+"name": "Wonderful, Pistachios",
+"brand": "WONDERFUL",
+"serving": "30 g (0.5 cup)",
+"cal": 160,
+"protein": 6.0,
+"carbs": 8.0,
+"fat": 14.0,
+"sodium": 0,
+"allergens": [
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2123245/nutrients",
+"fdcId": 2123245
+},
+{
+"name": "Wonderful, Almonds",
+"brand": "WONDERFUL",
+"serving": "30 g (0.25 cup)",
+"cal": 170,
+"protein": 6.0,
+"carbs": 7.0,
+"fat": 15.0,
+"sodium": 0,
+"allergens": [
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2042545/nutrients",
+"fdcId": 2042545
+},
+{
+"name": "Wonderful, Roasted Almonds",
+"brand": "WONDERFUL",
+"serving": "30 g (0.25 cup)",
+"cal": 180,
+"protein": 6.0,
+"carbs": 6.0,
+"fat": 16.0,
+"sodium": 0,
+"allergens": [
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2042544/nutrients",
+"fdcId": 2042544
+},
+{
+"name": "Planters, Cocktail Peanuts",
+"brand": "PLANTERS",
+"serving": "28 g (1 ONZ)",
+"cal": 170,
+"protein": 7.0,
+"carbs": 5.0,
+"fat": 14.0,
+"sodium": 95,
+"allergens": [
+"peanut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2087596/nutrients",
+"fdcId": 2087596
+},
+{
+"name": "Planters, Deluxe Mixed Nuts",
+"brand": "PLANTERS",
+"serving": "28 g (1 ONZ)",
+"cal": 170,
+"protein": 5.0,
+"carbs": 7.0,
+"fat": 14.0,
+"sodium": 80,
+"allergens": [
+"peanut",
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2089140/nutrients",
+"fdcId": 2089140
+},
+{
+"name": "Kind, Almond Protein Bar, Hickory Smoked, Hickory Smoked",
+"brand": "KIND",
+"serving": "45 g (1 BAR)",
+"cal": 230,
+"protein": 10.0,
+"carbs": 15.0,
+"fat": 16.0,
+"sodium": 125,
+"allergens": [
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/1907525/nutrients",
+"fdcId": 1907525
+},
+{
+"name": "Kind, Fruit & Nut Bar",
+"brand": "KIND",
+"serving": "40 g (1 BAR)",
+"cal": 210,
+"protein": 6.0,
+"carbs": 14.0,
+"fat": 16.0,
+"sodium": 10,
+"allergens": [
+"peanut",
+"soy",
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2081644/nutrients",
+"fdcId": 2081644
+},
+{
+"name": "Strong & Kind, Almond Protein Bar, Honey Mustard, Honey Mustard",
+"brand": "STRONG & KIND",
+"serving": "45 g (1 BAR)",
+"cal": 230,
+"protein": 10.0,
+"carbs": 15.0,
+"fat": 16.0,
+"sodium": 115,
+"allergens": [
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/1904230/nutrients",
+"fdcId": 1904230
+},
+{
+"name": "Kind, Fruit & Nut Bar In Yogurt",
+"brand": "KIND",
+"serving": "40 g (1 BAR)",
+"cal": 200,
+"protein": 5.0,
+"carbs": 19.0,
+"fat": 13.0,
+"sodium": 15,
+"allergens": [
+"dairy",
+"fruit",
+"peanut",
+"soy",
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2081645/nutrients",
+"fdcId": 2081645
+},
+{
+"name": "Protein Bar",
+"brand": "PURE PROTEIN",
+"serving": "60 g (1 BAR)",
+"cal": 210,
+"protein": 20.0,
+"carbs": 24.0,
+"fat": 8.0,
+"sodium": 110,
+"allergens": [
+"dairy",
+"gluten",
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2112671/nutrients",
+"fdcId": 2112671
+},
+{
+"name": "Simple Truth, Cocktail Shrimp",
+"brand": "SIMPLE TRUTH",
+"serving": "113 g (6 SHRIMP & 1 TBSP SAUCE)",
+"cal": 110,
+"protein": 21.0,
+"carbs": 4.0,
+"fat": 1.0,
+"sodium": 210,
+"allergens": [
+"fruit",
+"tomato"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2058546/nutrients",
+"fdcId": 2058546
+},
+{
+"name": "Muscle Milk, Non Dairy Protein Shake, Chocolate",
+"brand": "MUSCLE MILK",
+"serving": "330 ml (1 CARTON)",
+"cal": 158,
+"protein": 20.0,
+"carbs": 12.0,
+"fat": 4.0,
+"sodium": 129,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2628921/nutrients",
+"fdcId": 2628921
+},
+{
+"name": "Muscle Milk, Organic Non Dairy Protein Shake, Vanilla, Vanilla",
+"brand": "MUSCLE MILK",
+"serving": "330 ml (1 CARTON)",
+"cal": 158,
+"protein": 20.0,
+"carbs": 11.0,
+"fat": 4.0,
+"sodium": 158,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2544145/nutrients",
+"fdcId": 2544145
+},
+{
+"name": "Starkist, Chunk Light Tuna In Water",
+"brand": "STARKIST",
+"serving": "56 g (2 ONZ)",
+"cal": 60,
+"protein": 13.0,
+"carbs": 0.0,
+"fat": 0.5,
+"sodium": 250,
+"allergens": [
+"fish"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2035496/nutrients",
+"fdcId": 2035496
+},
+{
+"name": "Starkist, Albacore Albacore White Tuna In Water",
+"brand": "STARKIST",
+"serving": "74 g (2.6 ONZ)",
+"cal": 80,
+"protein": 16.0,
+"carbs": 0.0,
+"fat": 1.5,
+"sodium": 240,
+"allergens": [
+"fish"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2035415/nutrients",
+"fdcId": 2035415
+},
+{
+"name": "Starkist, Chunk White Albacore Tuna In Water",
+"brand": "STARKIST",
+"serving": "79 g (2.8 ONZ)",
+"cal": 80,
+"protein": 16.0,
+"carbs": 0.0,
+"fat": 0.5,
+"sodium": 200,
+"allergens": [
+"fish"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2035567/nutrients",
+"fdcId": 2035567
+},
+{
+"name": "Starkist Selects, Chunk White Albacore Tuna In Water",
+"brand": "STARKIST SELECTS",
+"serving": "56 g (2 ONZ)",
+"cal": 60,
+"protein": 14.0,
+"carbs": 0.0,
+"fat": 0.5,
+"sodium": 35,
+"allergens": [
+"fish"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/390959/nutrients",
+"fdcId": 390959
+},
+{
+"name": "Balanced Breaks",
+"brand": "SARGENTO",
+"serving": "43 g (1 TRAY)",
+"cal": 180,
+"protein": 7.0,
+"carbs": 13.0,
+"fat": 12.0,
+"sodium": 160,
+"allergens": [
+"dairy",
+"fruit",
+"peanut",
+"soy",
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2315740/nutrients",
+"fdcId": 2315740
+},
+{
+"name": "Sweet Balanced Breaks",
+"brand": "SARGENTO",
+"serving": "43 g (1 TRAY)",
+"cal": 170,
+"protein": 6.0,
+"carbs": 14.0,
+"fat": 10.0,
+"sodium": 180,
+"allergens": [
+"dairy",
+"fruit",
+"peanut",
+"soy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2679320/nutrients",
+"fdcId": 2679320
+},
+{
+"name": "Sargento Balanced Breaks Cheese &#38; Mini Wheat Thin Crackers - 4.5Oz / 3Ct",
+"brand": "Sargento",
+"serving": "42 g",
+"cal": 166,
+"protein": 7.8,
+"carbs": 8.8,
+"fat": 11.7,
+"sodium": 273,
+"allergens": [
+"dairy",
+"gluten"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2755946/nutrients",
+"fdcId": 2755946
+},
+{
+"name": "Kroger, Turkey Breast",
+"brand": "KROGER",
+"serving": "112 g (4 ONZ)",
+"cal": 130,
+"protein": 27.0,
+"carbs": 0.0,
+"fat": 2.0,
+"sodium": 80,
+"allergens": [],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2058550/nutrients",
+"fdcId": 2058550
+},
+{
+"name": "Protein Chips",
+"brand": "QUEST",
+"serving": "32 g (1 BAG)",
+"cal": 130,
+"protein": 23.0,
+"carbs": 4.0,
+"fat": 2.5,
+"sodium": 240,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/1925949/nutrients",
+"fdcId": 1925949
+},
+{
+"name": "Skinny Pop, Popcorn Pack",
+"brand": "SKINNYPOP",
+"serving": "18 g (1 PACKAGES)",
+"cal": 100,
+"protein": 2.0,
+"carbs": 9.0,
+"fat": 6.0,
+"sodium": 45,
+"allergens": [],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/1877548/nutrients",
+"fdcId": 1877548
+},
+{
+"name": "Skinny Pop Popcorn, 4.4 Oz",
+"brand": "SKINNY POP",
+"serving": "28 g (about 3 3/4 cups (28g))",
+"cal": 150,
+"protein": 2.0,
+"carbs": 15.0,
+"fat": 10.0,
+"sodium": 75,
+"allergens": [],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2624544/nutrients",
+"fdcId": 2624544
+},
+{
+"name": "Skinny Pack Popcorn",
+"brand": "SKINNYPOP",
+"serving": "18 g (1 PACKAGE, APPROX.)",
+"cal": 100,
+"protein": 2.0,
+"carbs": 9.0,
+"fat": 6.0,
+"sodium": 45,
+"allergens": [],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2665333/nutrients",
+"fdcId": 2665333
+},
+{
+"name": "Ratio Yogurt, Vanilla",
+"brand": "Ratio",
+"serving": "150 g",
+"cal": 170,
+"protein": 25.0,
+"carbs": 9.0,
+"fat": 4.0,
+"sodium": 190,
+"allergens": [
+"dairy"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2755895/nutrients",
+"fdcId": 2755895
+},
+{
+"name": "Ratio Protein Strawberry Yogurt Cultured Dairy Snack Cup",
+"brand": ":ratio Protein",
+"serving": "150 g",
+"cal": 170,
+"protein": 25.0,
+"carbs": 9.0,
+"fat": 4.0,
+"sodium": 150,
+"allergens": [
+"dairy",
+"fruit"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2755919/nutrients",
+"fdcId": 2755919
+},
+{
+"name": ":Ratio Toasted Almond Granola",
+"brand": "Ratio",
+"serving": "27 g (1/4 cup)",
+"cal": 150,
+"protein": 8.0,
+"carbs": 7.0,
+"fat": 10.0,
+"sodium": 120,
+"allergens": [
+"dairy",
+"fruit",
+"soy",
+"treenut"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2755121/nutrients",
+"fdcId": 2755121
+},
+{
+"name": ":Ratio Vanilla Trio Beverage",
+"brand": "Ratio",
+"serving": "198 g (1 bottle)",
+"cal": 130,
+"protein": 10.0,
+"carbs": 5.0,
+"fat": 8.0,
+"sodium": 46,
+"allergens": [
+"dairy",
+"fruit"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2717847/nutrients",
+"fdcId": 2717847
+},
+{
+"name": "Light + Fit Dannon",
+"brand": "Light + Fit",
+"serving": "150 g (150g)",
+"cal": 70,
+"protein": 5.0,
+"carbs": 13.0,
+"fat": 0.0,
+"sodium": 75,
+"allergens": [
+"dairy",
+"fruit"
+],
+"label": "Official",
+"source": "https://fdc.nal.usda.gov/food-details/2746241/nutrients",
+"fdcId": 2746241
+}
+]
+}

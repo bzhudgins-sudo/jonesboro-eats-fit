@@ -1,0 +1,632 @@
+{
+ "generated": "2026-10-24",
+ "method": "Estimated: dishes come from the restaurant's real menu (source recorded). Calories/macros are estimated from typical recipes and portion sizes using USDA FoodData Central generic foods. They are not restaurant-provided and can be off by 20-30%. Allergen tags (incl. tomato, fresh fruit, carrot) are \"likely\" based on typical recipes — always ask your server.",
+ "restaurants": {
+  "hong-kong": {
+   "name": "Hong Kong",
+   "match": [
+    "hong kong"
+   ],
+   "menu_source": "https://www.hongkong3228.com/ (online order menu, viewed 2026-10-24)",
+   "items": [
+    {
+     "name": "Chicken w. Broccoli (large, no rice)",
+     "cal": 620,
+     "protein": 55,
+     "carbs": 30,
+     "fat": 30,
+     "portion": "~1 qt: 8 oz chicken breast, 2 cups broccoli, brown sauce, oil",
+     "allergens": [
+      "soy",
+      "gluten"
+     ]
+    },
+    {
+     "name": "Beef w. Broccoli (large, no rice)",
+     "cal": 720,
+     "protein": 50,
+     "carbs": 32,
+     "fat": 42,
+     "portion": "~1 qt: 8 oz flank steak, 2 cups broccoli, brown sauce",
+     "allergens": [
+      "soy",
+      "gluten"
+     ]
+    },
+    {
+     "name": "Shrimp w. Broccoli (large, no rice)",
+     "cal": 480,
+     "protein": 45,
+     "carbs": 30,
+     "fat": 18,
+     "portion": "~1 qt: 8 oz shrimp, 2 cups broccoli, brown sauce",
+     "allergens": [
+      "shellfish",
+      "soy",
+      "gluten"
+     ]
+    },
+    {
+     "name": "Moo Goo Gai Pan (large, no rice)",
+     "cal": 560,
+     "protein": 50,
+     "carbs": 28,
+     "fat": 26,
+     "portion": "~1 qt: chicken, mushrooms, mixed veg, white sauce",
+     "allergens": [
+      "soy",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Vegetable Delight (large, no rice)",
+     "cal": 380,
+     "protein": 12,
+     "carbs": 45,
+     "fat": 18,
+     "portion": "~1 qt mixed vegetables, white sauce",
+     "allergens": [
+      "soy",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Steamed Dumplings (8)",
+     "cal": 420,
+     "protein": 20,
+     "carbs": 48,
+     "fat": 16,
+     "portion": "8 pork dumplings ~30 g each",
+     "allergens": [
+      "gluten",
+      "soy"
+     ]
+    },
+    {
+     "name": "Wonton Soup (small)",
+     "cal": 180,
+     "protein": 12,
+     "carbs": 20,
+     "fat": 5,
+     "portion": "~2 cups broth, 6 wontons",
+     "allergens": [
+      "gluten",
+      "egg",
+      "soy"
+     ]
+    },
+    {
+     "name": "Hot & Sour Soup (small)",
+     "cal": 160,
+     "protein": 9,
+     "carbs": 18,
+     "fat": 6,
+     "portion": "~2 cups",
+     "allergens": [
+      "soy",
+      "egg",
+      "gluten",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Chicken Fried Rice (large)",
+     "cal": 1100,
+     "protein": 45,
+     "carbs": 150,
+     "fat": 35,
+     "portion": "~1 qt fried rice with egg and chicken",
+     "allergens": [
+      "egg",
+      "soy",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Chicken Lo Mein (large)",
+     "cal": 1050,
+     "protein": 45,
+     "carbs": 140,
+     "fat": 35,
+     "portion": "~1 qt noodles, chicken, cabbage, carrot",
+     "allergens": [
+      "gluten",
+      "egg",
+      "soy",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Sesame Chicken (large, no rice)",
+     "cal": 1250,
+     "protein": 55,
+     "carbs": 130,
+     "fat": 55,
+     "portion": "~1 qt battered fried chicken, sweet sauce",
+     "allergens": [
+      "gluten",
+      "egg",
+      "soy",
+      "sesame"
+     ]
+    },
+    {
+     "name": "General Tso's Chicken (large, no rice)",
+     "cal": 1300,
+     "protein": 55,
+     "carbs": 130,
+     "fat": 60,
+     "portion": "~1 qt battered fried chicken, sweet-spicy sauce",
+     "allergens": [
+      "gluten",
+      "egg",
+      "soy"
+     ]
+    },
+    {
+     "name": "Sweet & Sour Chicken (large, no rice)",
+     "cal": 1200,
+     "protein": 45,
+     "carbs": 150,
+     "fat": 45,
+     "portion": "~1 qt battered chicken, sweet & sour sauce",
+     "allergens": [
+      "gluten",
+      "egg",
+      "tomato",
+      "fruit"
+     ]
+    },
+    {
+     "name": "Kung Pao Chicken (large, no rice)",
+     "cal": 800,
+     "protein": 55,
+     "carbs": 35,
+     "fat": 50,
+     "portion": "~1 qt chicken, peanuts, veg",
+     "allergens": [
+      "peanut",
+      "soy",
+      "gluten",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Pepper Steak w. Onions (large, no rice)",
+     "cal": 650,
+     "protein": 45,
+     "carbs": 30,
+     "fat": 38,
+     "portion": "~1 qt beef, peppers, onions, brown sauce",
+     "allergens": [
+      "soy",
+      "gluten"
+     ]
+    },
+    {
+     "name": "Egg Roll (each)",
+     "cal": 200,
+     "protein": 6,
+     "carbs": 22,
+     "fat": 10,
+     "portion": "1 roll ~85 g",
+     "allergens": [
+      "gluten",
+      "egg",
+      "soy",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Crab Rangoon (10)",
+     "cal": 700,
+     "protein": 16,
+     "carbs": 60,
+     "fat": 44,
+     "portion": "10 fried cream-cheese wontons",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "shellfish"
+     ]
+    },
+    {
+     "name": "Steamed white rice (pint)",
+     "cal": 410,
+     "protein": 8,
+     "carbs": 90,
+     "fat": 1,
+     "portion": "~2 cups cooked",
+     "allergens": []
+    }
+   ],
+   "label": "Estimated"
+  },
+  "native-brew-works": {
+   "name": "Native Brew Works",
+   "match": [
+    "native brew works"
+   ],
+   "menu_source": "https://nativebrewworks.com/menu (viewed 2026-10-24)",
+   "items": [
+    {
+     "name": "Waco (waffle with eggs, bacon, cheese; syrup on side)",
+     "cal": 780,
+     "protein": 32,
+     "carbs": 60,
+     "fat": 45,
+     "portion": "1 waffle, 2 eggs, 2 strips bacon, 1 oz cheese; syrup excluded",
+     "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Brunch Bowl (potatoes, pulled pork, black beans, egg)",
+     "cal": 820,
+     "protein": 40,
+     "carbs": 75,
+     "fat": 38,
+     "portion": "~1.5 cups potatoes, 4 oz pork, 1/2 cup beans, 1 egg, sour cream, queso fresco",
+     "allergens": [
+      "egg",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Brunch Burger with breakfast potatoes",
+     "cal": 1150,
+     "protein": 48,
+     "carbs": 70,
+     "fat": 72,
+     "portion": "1/3 lb patty, cheese, bacon, egg, sauce, bun, 1 cup potatoes",
+     "allergens": [
+      "gluten",
+      "egg",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Burger (cheese, lettuce, tomato, pickled onion)",
+     "cal": 780,
+     "protein": 38,
+     "carbs": 45,
+     "fat": 46,
+     "portion": "1/3 lb patty, cheese, bun, mayo",
+     "allergens": [
+      "gluten",
+      "egg",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Taco Salad (chicken)",
+     "cal": 650,
+     "protein": 40,
+     "carbs": 40,
+     "fat": 36,
+     "portion": "romaine, 5 oz chicken, beans, cheese, pico, tortilla strips; no dressing",
+     "allergens": [
+      "dairy",
+      "tomato",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Loaded Queso (with chips)",
+     "cal": 950,
+     "protein": 30,
+     "carbs": 70,
+     "fat": 60,
+     "portion": "~1 cup queso with beef & corn, ~2 oz chips",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    }
+   ],
+   "label": "Estimated"
+  },
+  "501-steakhouse": {
+   "name": "501 Steakhouse",
+   "match": [
+    "501 steakhouse"
+   ],
+   "menu_source": "https://501steakhouse.com/ and https://501steakhouse.com/menu (viewed 2026-10-24)",
+   "items": [
+    {
+     "name": "14oz House Dry Aged Ribeye w/ asparagus & twice baked potato",
+     "cal": 1450,
+     "protein": 90,
+     "carbs": 45,
+     "fat": 100,
+     "portion": "14 oz raw ribeye, garlic butter, 1 cup asparagus, loaded twice-baked potato",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Salmon Piccata over angel hair",
+     "cal": 1050,
+     "protein": 50,
+     "carbs": 85,
+     "fat": 52,
+     "portion": "7 oz salmon, 1.5 cups pasta, butter-caper sauce",
+     "allergens": [
+      "fish",
+      "gluten",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Seared Ahi Tuna (starter)",
+     "cal": 280,
+     "protein": 40,
+     "carbs": 8,
+     "fat": 8,
+     "portion": "~6 oz tuna, soy ginger sauce",
+     "allergens": [
+      "fish",
+      "soy",
+      "gluten"
+     ]
+    },
+    {
+     "name": "Classic Shrimp Cocktail",
+     "cal": 220,
+     "protein": 30,
+     "carbs": 18,
+     "fat": 2,
+     "portion": "~8 jumbo shrimp, cocktail sauce",
+     "allergens": [
+      "shellfish",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Jumbo Maryland Lump Crabcake (2)",
+     "cal": 700,
+     "protein": 35,
+     "carbs": 40,
+     "fat": 44,
+     "portion": "2 crab cakes ~4 oz each, fried eggplant, meunière sauce",
+     "allergens": [
+      "shellfish",
+      "egg",
+      "gluten",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Herbed Goat Cheese & Bacon Filet Burger w/ fries",
+     "cal": 1250,
+     "protein": 55,
+     "carbs": 95,
+     "fat": 70,
+     "portion": "6 oz patty, goat cheese, bacon, bun, ~5 oz fries",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Bang Bang Shrimp",
+     "cal": 650,
+     "protein": 25,
+     "carbs": 45,
+     "fat": 40,
+     "portion": "~10 fried shrimp, creamy chili sauce",
+     "allergens": [
+      "shellfish",
+      "gluten",
+      "egg"
+     ]
+    }
+   ],
+   "label": "Estimated"
+  },
+  "don-jose": {
+   "name": "Don Jose Mexican Restaurant",
+   "match": [
+    "don jose"
+   ],
+   "menu_source": "https://www.roostcafeandbistro.com/don-jose-mexican-restaurant-72401/ ; https://menuweb.menu/restaurants/jonesboro/don-jose-mexican-26/menu ; https://www.doordash.com/store/don-jose-mexican-restaurant-jonesboro-2369621/",
+   "items": [
+    {
+     "name": "Chips & salsa (1 basket ~2oz chips + 4oz salsa)",
+     "cal": 320,
+     "protein": 4,
+     "carbs": 40,
+     "fat": 16,
+     "allergens": [
+      "tomato"
+     ]
+    },
+    {
+     "name": "Cheese dip, 1/2 order (~4oz)",
+     "cal": 300,
+     "protein": 10,
+     "carbs": 10,
+     "fat": 24,
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Cheese dip w/ chorizo, 1/2 order",
+     "cal": 420,
+     "protein": 17,
+     "carbs": 11,
+     "fat": 34,
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Guacamole, 1/2 order (~4oz)",
+     "cal": 180,
+     "protein": 2,
+     "carbs": 10,
+     "fat": 16,
+     "allergens": [
+      "fruit"
+     ]
+    },
+    {
+     "name": "Taco Salad (beef, in shell)",
+     "cal": 900,
+     "protein": 35,
+     "carbs": 60,
+     "fat": 58,
+     "allergens": [
+      "carrot",
+      "fruit",
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Fajita Taco Salad (chicken, in shell)",
+     "cal": 850,
+     "protein": 45,
+     "carbs": 58,
+     "fat": 48,
+     "allergens": [
+      "carrot",
+      "fruit",
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Club Salad (grilled chicken)",
+     "cal": 450,
+     "protein": 40,
+     "carbs": 15,
+     "fat": 25,
+     "allergens": [
+      "carrot",
+      "fruit",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Chicken Tossed Salad",
+     "cal": 350,
+     "protein": 35,
+     "carbs": 12,
+     "fat": 18,
+     "allergens": [
+      "carrot",
+      "fruit",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Burrito Don Jose (beef) w/ rice & beans",
+     "cal": 1200,
+     "protein": 50,
+     "carbs": 130,
+     "fat": 52,
+     "allergens": [
+      "dairy",
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Burrito Oso (steak/chicken, cheese sauce)",
+     "cal": 1250,
+     "protein": 58,
+     "carbs": 120,
+     "fat": 60,
+     "allergens": [
+      "dairy",
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Burrito Chipotle (chicken, bacon, cheese dip)",
+     "cal": 1150,
+     "protein": 55,
+     "carbs": 105,
+     "fat": 57,
+     "allergens": [
+      "dairy",
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Grilled Chicken Quesadilla (a la carte)",
+     "cal": 650,
+     "protein": 40,
+     "carbs": 45,
+     "fat": 34,
+     "allergens": [
+      "dairy",
+      "gluten"
+     ]
+    },
+    {
+     "name": "Grilled Chicken Taco (each)",
+     "cal": 200,
+     "protein": 17,
+     "carbs": 15,
+     "fat": 8,
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Crunchy Beef Taco (each)",
+     "cal": 180,
+     "protein": 9,
+     "carbs": 13,
+     "fat": 10,
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Chicken Enchilada (each)",
+     "cal": 230,
+     "protein": 13,
+     "carbs": 20,
+     "fat": 11,
+     "allergens": [
+      "dairy",
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Mexican rice (side ~1 cup)",
+     "cal": 230,
+     "protein": 4,
+     "carbs": 42,
+     "fat": 5,
+     "allergens": [
+      "tomato"
+     ]
+    },
+    {
+     "name": "Refried beans (side ~3/4 cup)",
+     "cal": 220,
+     "protein": 12,
+     "carbs": 28,
+     "fat": 7,
+     "allergens": []
+    }
+   ],
+   "label": "Estimated"
+  }
+ }
+}

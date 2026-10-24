@@ -1,0 +1,232 @@
+{
+ "restaurant": "Don Jose Mexican Restaurant",
+ "location": "2200 Wilkins Ave, Jonesboro, AR 72401",
+ "phone": "(870) 933-1211",
+ "menu_sources": [
+  "https://www.roostcafeandbistro.com/don-jose-mexican-restaurant-72401/",
+  "https://menuweb.menu/restaurants/jonesboro/don-jose-mexican-26/menu",
+  "https://www.doordash.com/store/don-jose-mexican-restaurant-jonesboro-2369621/"
+ ],
+ "note": "ALL nutrition values are ESTIMATES based on typical Tex-Mex recipes/portions and USDA generic foods; not restaurant-provided.",
+ "items": [
+  {
+   "name": "Chips & salsa (1 basket ~2oz chips + 4oz salsa)",
+   "calories_est": 320,
+   "protein_g_est": 4,
+   "carbs_g_est": 40,
+   "fat_g_est": 16,
+   "is_estimate": true,
+   "allergens": [
+    "tomato"
+   ]
+  },
+  {
+   "name": "Cheese dip, 1/2 order (~4oz)",
+   "calories_est": 300,
+   "protein_g_est": 10,
+   "carbs_g_est": 10,
+   "fat_g_est": 24,
+   "is_estimate": true,
+   "allergens": [
+    "dairy"
+   ]
+  },
+  {
+   "name": "Cheese dip w/ chorizo, 1/2 order",
+   "calories_est": 420,
+   "protein_g_est": 17,
+   "carbs_g_est": 11,
+   "fat_g_est": 34,
+   "is_estimate": true,
+   "allergens": [
+    "dairy"
+   ]
+  },
+  {
+   "name": "Guacamole, 1/2 order (~4oz)",
+   "calories_est": 180,
+   "protein_g_est": 2,
+   "carbs_g_est": 10,
+   "fat_g_est": 16,
+   "is_estimate": true,
+   "allergens": [
+    "fruit"
+   ]
+  },
+  {
+   "name": "Taco Salad (beef, in shell)",
+   "calories_est": 900,
+   "protein_g_est": 35,
+   "carbs_g_est": 60,
+   "fat_g_est": 58,
+   "is_estimate": true,
+   "allergens": [
+    "carrot",
+    "fruit",
+    "gluten",
+    "tomato"
+   ]
+  },
+  {
+   "name": "Fajita Taco Salad (chicken, in shell)",
+   "calories_est": 850,
+   "protein_g_est": 45,
+   "carbs_g_est": 58,
+   "fat_g_est": 48,
+   "is_estimate": true,
+   "allergens": [
+    "carrot",
+    "fruit",
+    "gluten",
+    "tomato"
+   ]
+  },
+  {
+   "name": "Club Salad (grilled chicken)",
+   "calories_est": 450,
+   "protein_g_est": 40,
+   "carbs_g_est": 15,
+   "fat_g_est": 25,
+   "is_estimate": true,
+   "allergens": [
+    "carrot",
+    "fruit",
+    "tomato"
+   ]
+  },
+  {
+   "name": "Chicken Tossed Salad",
+   "calories_est": 350,
+   "protein_g_est": 35,
+   "carbs_g_est": 12,
+   "fat_g_est": 18,
+   "is_estimate": true,
+   "allergens": [
+    "carrot",
+    "fruit",
+    "tomato"
+   ]
+  },
+  {
+   "name": "Burrito Don Jose (beef) w/ rice & beans",
+   "calories_est": 1200,
+   "protein_g_est": 50,
+   "carbs_g_est": 130,
+   "fat_g_est": 52,
+   "is_estimate": true,
+   "allergens": [
+    "dairy",
+    "gluten",
+    "tomato"
+   ]
+  },
+  {
+   "name": "Burrito Oso (steak/chicken, cheese sauce)",
+   "calories_est": 1250,
+   "protein_g_est": 58,
+   "carbs_g_est": 120,
+   "fat_g_est": 60,
+   "is_estimate": true,
+   "allergens": [
+    "dairy",
+    "gluten",
+    "tomato"
+   ]
+  },
+  {
+   "name": "Burrito Chipotle (chicken, bacon, cheese dip)",
+   "calories_est": 1150,
+   "protein_g_est": 55,
+   "carbs_g_est": 105,
+   "fat_g_est": 57,
+   "is_estimate": true,
+   "allergens": [
+    "dairy",
+    "gluten",
+    "tomato"
+   ]
+  },
+  {
+   "name": "Grilled Chicken Quesadilla (a la carte)",
+   "calories_est": 650,
+   "protein_g_est": 40,
+   "carbs_g_est": 45,
+   "fat_g_est": 34,
+   "is_estimate": true,
+   "allergens": [
+    "dairy",
+    "gluten"
+   ]
+  },
+  {
+   "name": "Grilled Chicken Taco (each)",
+   "calories_est": 200,
+   "protein_g_est": 17,
+   "carbs_g_est": 15,
+   "fat_g_est": 8,
+   "is_estimate": true,
+   "allergens": [
+    "gluten",
+    "tomato"
+   ]
+  },
+  {
+   "name": "Crunchy Beef Taco (each)",
+   "calories_est": 180,
+   "protein_g_est": 9,
+   "carbs_g_est": 13,
+   "fat_g_est": 10,
+   "is_estimate": true,
+   "allergens": [
+    "gluten",
+    "tomato"
+   ]
+  },
+  {
+   "name": "Chicken Enchilada (each)",
+   "calories_est": 230,
+   "protein_g_est": 13,
+   "carbs_g_est": 20,
+   "fat_g_est": 11,
+   "is_estimate": true,
+   "allergens": [
+    "dairy",
+    "gluten",
+    "tomato"
+   ]
+  },
+  {
+   "name": "Mexican rice (side ~1 cup)",
+   "calories_est": 230,
+   "protein_g_est": 4,
+   "carbs_g_est": 42,
+   "fat_g_est": 5,
+   "is_estimate": true,
+   "allergens": [
+    "tomato"
+   ]
+  },
+  {
+   "name": "Refried beans (side ~3/4 cup)",
+   "calories_est": 220,
+   "protein_g_est": 12,
+   "carbs_g_est": 28,
+   "fat_g_est": 7,
+   "is_estimate": true,
+   "allergens": []
+  }
+ ],
+ "recommendations": {
+  "lower_calorie": "Chicken Tossed Salad or 2 Grilled Chicken Tacos",
+  "high_protein": "Club Salad (grilled chicken) or Fajita Taco Salad without the shell",
+  "balanced": "Grilled Chicken Quesadilla + side of beans, or 2 grilled chicken tacos + beans",
+  "tips": [
+   "Skip/limit chips: each basket ~320 cal",
+   "Taco salad: ask no shell (saves ~300-400 cal)",
+   "Beans instead of rice; salsa instead of cheese dip",
+   "Sour cream & cheese sauce on side",
+   "Grilled over shredded/fried"
+  ]
+ },
+ "retagged": "2026-10-24: tomato/fresh fruit/carrot tags added (likely, from typical recipes)"
+}
