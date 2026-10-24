@@ -25,7 +25,7 @@ function filt(items,snack){const hp=$('#fHP').checked,mx=+$('#fMax').value||0,sh
   out.push({...it,hit,unknown,score:score(it,snack)})}
  return out.sort((a,b)=>b.score-a.score)}
 const AN=Object.fromEntries(ALLERGENS);
-function itemHTML(it,label){return `<div class="item"><div class="r"><div><b>${esc(it.name)}</b> <span class="pill ${label==='Official'?'off':'est'}">${label}</span>
+function itemHTML(it,label){return `<div class="item"><div class="r"><div><b>${esc(it.name)}</b> <span class="pill ${label==='Official'?'off':'est'}">${esc(it.label||label)}</span>
  <div class="macros">${it.cal} cal · <b>${it.protein} g protein</b> · ${it.carbs??'–'} g carbs · ${it.fat??'–'} g fat${it.serving?' · '+esc(it.serving):''}${it.portion?' · '+esc(it.portion):''}</div>
  ${it.hit.length?`<div class="warn">⚠ May contain your allergens: ${it.hit.map(t=>AN[t]).join(', ')}</div>`:''}
  ${it.unknown&&P.allergies.length?'<div class="warn" style="background:#2a2410;color:#fde68a">Allergens not listed — verify</div>':''}</div><div class="score" title="Fit score">${it.score}</div></div></div>`}
