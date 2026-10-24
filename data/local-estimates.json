@@ -9300,6 +9300,3485 @@
      ]
     }
    ]
+  },
+  "lazzari": {
+   "name": "Lazzari Italian Oven",
+   "match": [
+    "lazzari"
+   ],
+   "menu_source": "https://www.doordash.com/store/lazzari-italian-oven-jonesboro-24912750/ (DoorDash menu, viewed 2026-10-24)",
+   "label": "Estimated",
+   "items": [
+    {
+     "name": "Scampi",
+     "cal": 450,
+     "protein": 25,
+     "carbs": 20,
+     "fat": 30,
+     "portion": "grilled shrimp, garlic butter, bread",
+     "allergens": [
+      "shellfish",
+      "dairy",
+      "gluten"
+     ]
+    },
+    {
+     "name": "Crabmeat Stuffed Mushrooms",
+     "cal": 450,
+     "protein": 20,
+     "carbs": 20,
+     "fat": 32,
+     "portion": "crab stuffing, cheese",
+     "allergens": [
+      "shellfish",
+      "fish",
+      "dairy",
+      "gluten",
+      "egg"
+     ]
+    },
+    {
+     "name": "Toasted Ravioli",
+     "cal": 750,
+     "protein": 28,
+     "carbs": 75,
+     "fat": 36,
+     "portion": "fried beef ravioli, marinara side",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Zucchini Chips",
+     "cal": 600,
+     "protein": 10,
+     "carbs": 60,
+     "fat": 36,
+     "portion": "fried zucchini + dip",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+     ]
+    },
+    {
+     "name": "Appetizer Combo",
+     "cal": 1000,
+     "protein": 35,
+     "carbs": 100,
+     "fat": 52,
+     "portion": "ravioli, zucchini chips, mozz sticks; marinara",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Eggplant Parmigiana (appetizer)",
+     "cal": 600,
+     "protein": 20,
+     "carbs": 50,
+     "fat": 34,
+     "portion": "breaded eggplant, cheese, marinara",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Mozzarella Fritta",
+     "cal": 750,
+     "protein": 35,
+     "carbs": 55,
+     "fat": 42,
+     "portion": "fried mozzarella, marinara side",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Minestrone",
+     "cal": 200,
+     "protein": 7,
+     "carbs": 30,
+     "fat": 5,
+     "portion": "cup/bowl; tomato, carrot",
+     "allergens": [
+      "gluten",
+      "tomato",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Italian Chicken & Dumpling Soup",
+     "cal": 300,
+     "protein": 18,
+     "carbs": 30,
+     "fat": 12,
+     "portion": "chicken, dumplings; carrot likely",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "carrot"
+     ]
+    },
+    {
+     "name": "1/2 Caesar",
+     "cal": 230,
+     "protein": 7,
+     "carbs": 11,
+     "fat": 17,
+     "portion": "half caesar",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "fish"
+     ]
+    },
+    {
+     "name": "1/2 Special Mista Salad",
+     "cal": 250,
+     "protein": 8,
+     "carbs": 15,
+     "fat": 17,
+     "portion": "greens, tomatoes, red onion, cheese",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Special Mista Salad",
+     "cal": 500,
+     "protein": 16,
+     "carbs": 30,
+     "fat": 34,
+     "portion": "greens, tomatoes, red onion, cheese",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Caesar",
+     "cal": 450,
+     "protein": 14,
+     "carbs": 22,
+     "fat": 34,
+     "portion": "romaine, parmesan, croutons",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "fish"
+     ]
+    },
+    {
+     "name": "Grilled Chicken Caesar",
+     "cal": 650,
+     "protein": 50,
+     "carbs": 22,
+     "fat": 40,
+     "portion": "6 oz chicken + caesar",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "fish"
+     ]
+    },
+    {
+     "name": "Linguine Marinara",
+     "cal": 850,
+     "protein": 25,
+     "carbs": 140,
+     "fat": 20,
+     "portion": "linguine, marinara",
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Linguine Meatballs",
+     "cal": 1200,
+     "protein": 50,
+     "carbs": 140,
+     "fat": 48,
+     "portion": "linguine, marinara, meatballs",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Pasta w/ Grilled Chicken",
+     "cal": 1050,
+     "protein": 55,
+     "carbs": 120,
+     "fat": 36,
+     "portion": "penne, grilled chicken, sauce (tomato likely)",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Cheese Manicotti Al Forno",
+     "cal": 900,
+     "protein": 38,
+     "carbs": 80,
+     "fat": 46,
+     "portion": "ricotta manicotti, marinara, mozzarella",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Grilled Chicken Cannelloni",
+     "cal": 950,
+     "protein": 50,
+     "carbs": 80,
+     "fat": 46,
+     "portion": "chicken cannelloni, sauce (tomato likely)",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Fettuccine Alfredo",
+     "cal": 1200,
+     "protein": 30,
+     "carbs": 110,
+     "fat": 68,
+     "portion": "fettuccine, asiago alfredo",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+     ]
+    },
+    {
+     "name": "Lasagna Al Forno",
+     "cal": 1000,
+     "protein": 50,
+     "carbs": 70,
+     "fat": 56,
+     "portion": "meat lasagna, marinara, cheese",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Cannelloni with Beef",
+     "cal": 950,
+     "protein": 45,
+     "carbs": 75,
+     "fat": 50,
+     "portion": "beef cannelloni, marinara",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Linguine Meat Sauce",
+     "cal": 1100,
+     "protein": 45,
+     "carbs": 140,
+     "fat": 36,
+     "portion": "linguine bolognese",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Beef Ravioli",
+     "cal": 850,
+     "protein": 35,
+     "carbs": 90,
+     "fat": 36,
+     "portion": "beef ravioli, marinara",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Chicken & Tortellini Carbonara",
+     "cal": 1300,
+     "protein": 60,
+     "carbs": 100,
+     "fat": 72,
+     "portion": "cheese tortellini, chicken, bacon cream",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+     ]
+    },
+    {
+     "name": "Chicken Parmigiana",
+     "cal": 1100,
+     "protein": 60,
+     "carbs": 100,
+     "fat": 46,
+     "portion": "breaded chicken, marinara, mozzarella, pasta",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Eggplant Parmigiana (entree)",
+     "cal": 900,
+     "protein": 28,
+     "carbs": 100,
+     "fat": 42,
+     "portion": "breaded eggplant, marinara, pasta",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Fettuccine Michelangelo",
+     "cal": 1250,
+     "protein": 60,
+     "carbs": 110,
+     "fat": 62,
+     "portion": "grilled chicken, fettuccine cream sauce",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+     ]
+    },
+    {
+     "name": "Chicken Scaloppini",
+     "cal": 900,
+     "protein": 55,
+     "carbs": 80,
+     "fat": 38,
+     "portion": "chicken marsala, mushrooms, pasta",
+     "allergens": [
+      "gluten",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Grilled Salmon",
+     "cal": 650,
+     "protein": 45,
+     "carbs": 30,
+     "fat": 36,
+     "portion": "salmon, lemon (citrus), side",
+     "allergens": [
+      "fish",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Shrimp Carbonara",
+     "cal": 1200,
+     "protein": 45,
+     "carbs": 110,
+     "fat": 62,
+     "portion": "shrimp, bacon, cream",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "shellfish"
+     ]
+    },
+    {
+     "name": "Stuffed Flounder",
+     "cal": 800,
+     "protein": 50,
+     "carbs": 40,
+     "fat": 46,
+     "portion": "two 5 oz parmesan-crusted fillets, crab stuffing",
+     "allergens": [
+      "fish",
+      "shellfish",
+      "gluten",
+      "dairy",
+      "egg"
+     ]
+    },
+    {
+     "name": "Crabmeat Cannelloni",
+     "cal": 950,
+     "protein": 35,
+     "carbs": 75,
+     "fat": 56,
+     "portion": "crab cannelloni, cream sauce",
+     "allergens": [
+      "shellfish",
+      "fish",
+      "gluten",
+      "dairy",
+      "egg"
+     ]
+    },
+    {
+     "name": "Linguine Grilled Shrimp",
+     "cal": 950,
+     "protein": 40,
+     "carbs": 130,
+     "fat": 28,
+     "portion": "shrimp, linguine (sauce may be tomato)",
+     "allergens": [
+      "gluten",
+      "shellfish",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Tutto Mare",
+     "cal": 1000,
+     "protein": 50,
+     "carbs": 130,
+     "fat": 28,
+     "portion": "clams, shrimp, scallops, linguine; marinara likely",
+     "allergens": [
+      "gluten",
+      "shellfish",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Vegetariana Pizza",
+     "cal": 900,
+     "protein": 35,
+     "carbs": 100,
+     "fat": 36,
+     "portion": "individual pie, red sauce",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Con Spinaci Pizza",
+     "cal": 900,
+     "protein": 35,
+     "carbs": 95,
+     "fat": 38,
+     "portion": "spinach; fresh sliced tomato likely",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Grilled Chicken Pizza",
+     "cal": 1000,
+     "protein": 50,
+     "carbs": 95,
+     "fat": 44,
+     "portion": "individual, chicken, bacon; sauce may be tomato",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Five Cheese Pizza",
+     "cal": 1000,
+     "protein": 45,
+     "carbs": 95,
+     "fat": 48,
+     "portion": "individual, red sauce",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Meat & Veg Supreme Pizza",
+     "cal": 1150,
+     "protein": 50,
+     "carbs": 100,
+     "fat": 58,
+     "portion": "individual, red sauce",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Pepperoni Pizza",
+     "cal": 1050,
+     "protein": 45,
+     "carbs": 95,
+     "fat": 52,
+     "portion": "individual, red sauce",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Italian Sausage Pizza",
+     "cal": 1050,
+     "protein": 45,
+     "carbs": 95,
+     "fat": 52,
+     "portion": "individual, red sauce",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Pollo Con Rosmarino",
+     "cal": 750,
+     "protein": 55,
+     "carbs": 50,
+     "fat": 34,
+     "portion": "rosemary chicken + side",
+     "allergens": [
+      "gluten",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Grilled Chicken Carbonara",
+     "cal": 1250,
+     "protein": 60,
+     "carbs": 110,
+     "fat": 62,
+     "portion": "chicken, bacon, cream",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+     ]
+    },
+    {
+     "name": "NY Strip",
+     "cal": 800,
+     "protein": 65,
+     "carbs": 20,
+     "fat": 50,
+     "portion": "NY strip + side",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Filet Mignon",
+     "cal": 700,
+     "protein": 55,
+     "carbs": 20,
+     "fat": 42,
+     "portion": "filet + side",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Ribeye Sandwich",
+     "cal": 800,
+     "protein": 45,
+     "carbs": 55,
+     "fat": 42,
+     "portion": "ribeye on bread; tomato possible",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Monte Cristo",
+     "cal": 900,
+     "protein": 45,
+     "carbs": 65,
+     "fat": 50,
+     "portion": "turkey, ham, cheese, battered & fried",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+     ]
+    },
+    {
+     "name": "Reuben",
+     "cal": 850,
+     "protein": 42,
+     "carbs": 50,
+     "fat": 52,
+     "portion": "corned beef, sauerkraut, Swiss",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+     ]
+    },
+    {
+     "name": "Grilled Chicken Sandwich",
+     "cal": 650,
+     "protein": 45,
+     "carbs": 50,
+     "fat": 28,
+     "portion": "chicken sandwich; tomato possible",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Steak & Shrimp",
+     "cal": 800,
+     "protein": 75,
+     "carbs": 15,
+     "fat": 46,
+     "portion": "8 oz strip + 4 shrimp + side",
+     "allergens": [
+      "shellfish",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Flame Grilled Ribeye",
+     "cal": 1100,
+     "protein": 70,
+     "carbs": 20,
+     "fat": 80,
+     "portion": "ribeye + side",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Grilled Italian Sausage",
+     "cal": 900,
+     "protein": 35,
+     "carbs": 60,
+     "fat": 56,
+     "portion": "two links + side (pasta/peppers)",
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Tiramisu",
+     "cal": 450,
+     "protein": 7,
+     "carbs": 45,
+     "fat": 26,
+     "portion": "slice",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+     ]
+    },
+    {
+     "name": "Cheesecake Trio",
+     "cal": 600,
+     "protein": 9,
+     "carbs": 50,
+     "fat": 40,
+     "portion": "three cheesecake pieces",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+     ]
+    },
+    {
+     "name": "Chocolate Mousse Cake",
+     "cal": 550,
+     "protein": 7,
+     "carbs": 60,
+     "fat": 32,
+     "portion": "slice",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+     ]
+    },
+    {
+     "name": "Strawberry Cream Cake",
+     "cal": 500,
+     "protein": 6,
+     "carbs": 65,
+     "fat": 24,
+     "portion": "strawberry (fruit)",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "fruit"
+     ]
+    },
+    {
+     "name": "Cannoli",
+     "cal": 400,
+     "protein": 8,
+     "carbs": 40,
+     "fat": 22,
+     "portion": "cannoli",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg"
+     ]
+    }
+   ]
+  },
+  "las-brisas": {
+   "name": "Las Brisas Mexican Grill",
+   "match": [
+    "las brisas"
+   ],
+   "menu_source": "https://www.doordash.com/store/las-brisas-mexican-grill-jonesboro-38753367/ (DoorDash menu, viewed 2026-10-24)",
+   "label": "Estimated",
+   "items": [
+    {
+     "name": "Chicken Cheese & Rice",
+     "cal": 800,
+     "protein": 50,
+     "carbs": 70,
+     "fat": 32,
+     "portion": "grilled chicken, rice, cheese sauce",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Queso Fundido",
+     "cal": 600,
+     "protein": 28,
+     "carbs": 10,
+     "fat": 50,
+     "portion": "cheese + chorizo",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Las Brisas Dip",
+     "cal": 450,
+     "protein": 20,
+     "carbs": 12,
+     "fat": 36,
+     "portion": "house cheese dip w. toppings (pico likely)",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Bean Dip",
+     "cal": 400,
+     "protein": 18,
+     "carbs": 35,
+     "fat": 20,
+     "portion": "refried beans, cheese",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Cheese Dip",
+     "cal": 450,
+     "protein": 18,
+     "carbs": 12,
+     "fat": 36,
+     "portion": "8 oz queso",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Guacamole",
+     "cal": 300,
+     "protein": 4,
+     "carbs": 18,
+     "fat": 26,
+     "portion": "avocado, lime; tomato likely",
+     "allergens": [
+      "fruit",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Nacho Fries",
+     "cal": 1100,
+     "protein": 40,
+     "carbs": 90,
+     "fat": 64,
+     "portion": "fries, cheese, meat",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Hawaiian Nachos",
+     "cal": 1400,
+     "protein": 60,
+     "carbs": 110,
+     "fat": 74,
+     "portion": "chips, meat, cheese, pineapple likely",
+     "allergens": [
+      "dairy",
+      "fruit"
+     ]
+    },
+    {
+     "name": "Beef Nachos",
+     "cal": 1100,
+     "protein": 45,
+     "carbs": 90,
+     "fat": 62,
+     "portion": "chips, beef, cheese",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Chicken Nachos",
+     "cal": 1050,
+     "protein": 50,
+     "carbs": 90,
+     "fat": 54,
+     "portion": "chips, chicken, cheese",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Bean Nachos",
+     "cal": 900,
+     "protein": 28,
+     "carbs": 100,
+     "fat": 44,
+     "portion": "chips, beans, cheese",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Nachos Fajita",
+     "cal": 1250,
+     "protein": 60,
+     "carbs": 95,
+     "fat": 64,
+     "portion": "fajita meat, cheese, peppers; pico likely",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Nachos Supreme",
+     "cal": 1300,
+     "protein": 50,
+     "carbs": 100,
+     "fat": 74,
+     "portion": "beef, chicken, beans, cheese, lettuce, tomato, sour cream",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Hawaiian Fajitas",
+     "cal": 1000,
+     "protein": 60,
+     "carbs": 80,
+     "fat": 44,
+     "portion": "bacon & pineapple fajitas (tortillas, rice, beans)",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "fruit",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Fajitas Las Brisas Special",
+     "cal": 1100,
+     "protein": 75,
+     "carbs": 70,
+     "fat": 52,
+     "portion": "chorizo, shrimp, steak, chicken; pico likely",
+     "allergens": [
+      "gluten",
+      "shellfish",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Shrimp Fajitas",
+     "cal": 800,
+     "protein": 45,
+     "carbs": 70,
+     "fat": 34,
+     "portion": "shrimp fajitas; pico likely",
+     "allergens": [
+      "gluten",
+      "shellfish",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Fajitas",
+     "cal": 900,
+     "protein": 60,
+     "carbs": 70,
+     "fat": 42,
+     "portion": "steak or chicken; pico likely",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Fajitas Jalisco",
+     "cal": 1000,
+     "protein": 65,
+     "carbs": 70,
+     "fat": 48,
+     "portion": "steak, chicken, shrimp; pico likely",
+     "allergens": [
+      "gluten",
+      "shellfish",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Taco Salad",
+     "cal": 950,
+     "protein": 40,
+     "carbs": 70,
+     "fat": 56,
+     "portion": "fried shell, meat, cheese, lettuce, tomato",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Tossed Salad",
+     "cal": 150,
+     "protein": 4,
+     "carbs": 10,
+     "fat": 10,
+     "portion": "side salad; tomato likely",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Crispy Chicken Salad",
+     "cal": 700,
+     "protein": 35,
+     "carbs": 40,
+     "fat": 44,
+     "portion": "fried chicken, tomatoes",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Buffalo Chicken Salad",
+     "cal": 700,
+     "protein": 35,
+     "carbs": 35,
+     "fat": 46,
+     "portion": "buffalo chicken, tomatoes",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "egg",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Mexican Salad",
+     "cal": 750,
+     "protein": 45,
+     "carbs": 40,
+     "fat": 44,
+     "portion": "grilled meat, tomatoes",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Cancun Salad",
+     "cal": 550,
+     "protein": 35,
+     "carbs": 25,
+     "fat": 32,
+     "portion": "shrimp salad; tomato likely",
+     "allergens": [
+      "shellfish",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Tacos Supreme Dinner",
+     "cal": 800,
+     "protein": 35,
+     "carbs": 60,
+     "fat": 44,
+     "portion": "tacos w. sour cream, tomato, rice, beans",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Chimichanga",
+     "cal": 950,
+     "protein": 40,
+     "carbs": 90,
+     "fat": 48,
+     "portion": "fried burrito, cheese sauce; pico/guac likely",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato",
+      "fruit"
+     ]
+    },
+    {
+     "name": "Taquitos Mexicanos",
+     "cal": 700,
+     "protein": 30,
+     "carbs": 65,
+     "fat": 34,
+     "portion": "four taquitos; guac/pico typical",
+     "allergens": [
+      "dairy",
+      "fruit",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Yolandas",
+     "cal": 800,
+     "protein": 45,
+     "carbs": 60,
+     "fat": 40,
+     "portion": "3 chicken enchiladas",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Enchiladas Supreme",
+     "cal": 850,
+     "protein": 40,
+     "carbs": 70,
+     "fat": 44,
+     "portion": "enchiladas, red sauce, sour cream, tomato",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Suizas",
+     "cal": 800,
+     "protein": 40,
+     "carbs": 60,
+     "fat": 42,
+     "portion": "enchiladas suizas, green sauce",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Verdes",
+     "cal": 750,
+     "protein": 40,
+     "carbs": 60,
+     "fat": 36,
+     "portion": "enchiladas verdes (tomatillo)",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Rancheras",
+     "cal": 850,
+     "protein": 42,
+     "carbs": 70,
+     "fat": 42,
+     "portion": "enchiladas, ranchero (tomato) sauce",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Grilled Shrimp Quesadilla",
+     "cal": 800,
+     "protein": 40,
+     "carbs": 55,
+     "fat": 46,
+     "portion": "shrimp, cheese; pico likely",
+     "allergens": [
+      "gluten",
+      "shellfish",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Mushroom Quesadilla",
+     "cal": 650,
+     "protein": 22,
+     "carbs": 55,
+     "fat": 36,
+     "portion": "mushrooms, cheese, pico",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Special Quesadilla Fajitas",
+     "cal": 900,
+     "protein": 50,
+     "carbs": 60,
+     "fat": 48,
+     "portion": "fajita quesadilla; pico likely",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Super Las Brisas Quesadilla",
+     "cal": 1200,
+     "protein": 65,
+     "carbs": 80,
+     "fat": 66,
+     "portion": "large quesadilla, mixed meats",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Veg Dinner: Bean Burrito, Cheese Enchilada, Bean Tostada",
+     "cal": 900,
+     "protein": 30,
+     "carbs": 100,
+     "fat": 40,
+     "portion": "red sauce/tomato likely",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Veg Dinner: Cheese Quesadilla, Chalupa, Bean Burrito",
+     "cal": 950,
+     "protein": 32,
+     "carbs": 100,
+     "fat": 44,
+     "portion": "chalupa w. lettuce/tomato",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Veg Dinner: Two Crunchy Flour Tortillas w/ Veg",
+     "cal": 750,
+     "protein": 18,
+     "carbs": 85,
+     "fat": 36,
+     "portion": "vegetables (carrot possible)",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Veg Dinner: Two Bean Burritos",
+     "cal": 850,
+     "protein": 30,
+     "carbs": 110,
+     "fat": 30,
+     "portion": "bean burritos, sauce",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Veg Dinner: Bean Chalupa & Cheese Enchilada",
+     "cal": 750,
+     "protein": 25,
+     "carbs": 80,
+     "fat": 36,
+     "portion": "lettuce/tomato on chalupa",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Grande Steak Burrito",
+     "cal": 1100,
+     "protein": 60,
+     "carbs": 100,
+     "fat": 48,
+     "portion": "steak, rice, beans, cheese",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Burrito JP California",
+     "cal": 1200,
+     "protein": 60,
+     "carbs": 100,
+     "fat": 58,
+     "portion": "steak, fries, cheese, sour cream; guac likely",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "fruit"
+     ]
+    },
+    {
+     "name": "Burrito Verde",
+     "cal": 900,
+     "protein": 45,
+     "carbs": 90,
+     "fat": 38,
+     "portion": "green sauce burrito",
+     "allergens": [
+      "gluten",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Burrito Supreme",
+     "cal": 850,
+     "protein": 38,
+     "carbs": 80,
+     "fat": 40,
+     "portion": "beef/chicken, sour cream, tomato",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Burrito Mexicano",
+     "cal": 1000,
+     "protein": 50,
+     "carbs": 95,
+     "fat": 44,
+     "portion": "house burrito; pico likely",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Burrito Las Brisas",
+     "cal": 1400,
+     "protein": 70,
+     "carbs": 130,
+     "fat": 60,
+     "portion": "XL burrito",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Burrito Special",
+     "cal": 900,
+     "protein": 40,
+     "carbs": 85,
+     "fat": 42,
+     "portion": "burrito w. sauce",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Shrimp Soup",
+     "cal": 450,
+     "protein": 40,
+     "carbs": 25,
+     "fat": 16,
+     "portion": "caldo de camaron (tomato, carrot likely)",
+     "allergens": [
+      "shellfish",
+      "tomato",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Chicken Soup",
+     "cal": 450,
+     "protein": 35,
+     "carbs": 40,
+     "fat": 14,
+     "portion": "chicken, veg, rice (carrot likely)",
+     "allergens": [
+      "carrot"
+     ]
+    },
+    {
+     "name": "Tortilla Soup",
+     "cal": 450,
+     "protein": 30,
+     "carbs": 35,
+     "fat": 20,
+     "portion": "tomato, carrot likely, tortilla strips",
+     "allergens": [
+      "tomato",
+      "carrot",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Chepe",
+     "cal": 900,
+     "protein": 50,
+     "carbs": 70,
+     "fat": 44,
+     "portion": "house plate",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Papa Asada",
+     "cal": 900,
+     "protein": 45,
+     "carbs": 70,
+     "fat": 46,
+     "portion": "baked potato, steak, cheese",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Nachos Chuy",
+     "cal": 1400,
+     "protein": 65,
+     "carbs": 100,
+     "fat": 78,
+     "portion": "loaded nachos",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Carne Al Carbon",
+     "cal": 900,
+     "protein": 60,
+     "carbs": 60,
+     "fat": 44,
+     "portion": "grilled steak, rice, beans; pico/guac likely",
+     "allergens": [
+      "tomato",
+      "fruit"
+     ]
+    },
+    {
+     "name": "Pollo Las Brisas",
+     "cal": 900,
+     "protein": 60,
+     "carbs": 60,
+     "fat": 42,
+     "portion": "chicken plate",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Pollo Fundido",
+     "cal": 900,
+     "protein": 60,
+     "carbs": 55,
+     "fat": 46,
+     "portion": "chicken w. cheese + chorizo",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Pollo Ranchero",
+     "cal": 750,
+     "protein": 55,
+     "carbs": 55,
+     "fat": 30,
+     "portion": "chicken, ranchero (tomato) sauce",
+     "allergens": [
+      "tomato"
+     ]
+    },
+    {
+     "name": "Rib Eye",
+     "cal": 1000,
+     "protein": 60,
+     "carbs": 40,
+     "fat": 64,
+     "portion": "10 oz ribeye + mashed potatoes",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "T-Bone",
+     "cal": 1000,
+     "protein": 65,
+     "carbs": 70,
+     "fat": 50,
+     "portion": "12 oz T-bone, rice, beans",
+     "allergens": [
+      "tomato"
+     ]
+    },
+    {
+     "name": "QuesaBirrias",
+     "cal": 1000,
+     "protein": 50,
+     "carbs": 60,
+     "fat": 58,
+     "portion": "3 birria quesatacos + consomme (tomato likely)",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Jalisco Special",
+     "cal": 950,
+     "protein": 60,
+     "carbs": 60,
+     "fat": 48,
+     "portion": "steak/chicken/shrimp plate",
+     "allergens": [
+      "shellfish",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Chilaquiles",
+     "cal": 800,
+     "protein": 30,
+     "carbs": 70,
+     "fat": 44,
+     "portion": "chips in red sauce (tomato likely), egg/chicken, cheese",
+     "allergens": [
+      "dairy",
+      "egg",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Gustavo Special",
+     "cal": 950,
+     "protein": 60,
+     "carbs": 60,
+     "fat": 46,
+     "portion": "plate w. pico",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Carnitas",
+     "cal": 850,
+     "protein": 50,
+     "carbs": 60,
+     "fat": 42,
+     "portion": "pork, rice, beans; pico/guac typical",
+     "allergens": [
+      "tomato",
+      "fruit"
+     ]
+    },
+    {
+     "name": "Chile Verde",
+     "cal": 750,
+     "protein": 48,
+     "carbs": 60,
+     "fat": 34,
+     "portion": "pork in tomatillo sauce",
+     "allergens": []
+    },
+    {
+     "name": "Chile Colorado",
+     "cal": 800,
+     "protein": 50,
+     "carbs": 60,
+     "fat": 36,
+     "portion": "beef in red chile",
+     "allergens": [
+      "tomato"
+     ]
+    },
+    {
+     "name": "Tacos Mexicanos",
+     "cal": 650,
+     "protein": 40,
+     "carbs": 50,
+     "fat": 30,
+     "portion": "4 street tacos, cilantro, onion",
+     "allergens": []
+    }
+   ]
+  },
+  "fuji": {
+   "name": "Fuji Japanese Steakhouse",
+   "match": [
+    "fuji japanese"
+   ],
+   "menu_source": "https://www.doordash.com/store/fuji-japanese-steakhouse-jonesboro-36274051/ (DoorDash menu, viewed 2026-10-24)",
+   "label": "Estimated",
+   "items": [
+    {
+     "name": "Garden Salad",
+     "cal": 100,
+     "protein": 2,
+     "carbs": 10,
+     "fat": 6,
+     "portion": "greens, carrot, ginger dressing",
+     "allergens": [
+      "carrot",
+      "soy"
+     ]
+    },
+    {
+     "name": "Onion Soup",
+     "cal": 50,
+     "protein": 2,
+     "carbs": 6,
+     "fat": 2,
+     "portion": "clear broth",
+     "allergens": [
+      "soy"
+     ]
+    },
+    {
+     "name": "Seaweed Salad",
+     "cal": 200,
+     "protein": 2,
+     "carbs": 20,
+     "fat": 12,
+     "portion": "seaweed, sesame",
+     "allergens": [
+      "sesame",
+      "soy"
+     ]
+    },
+    {
+     "name": "Miso Soup",
+     "cal": 60,
+     "protein": 4,
+     "carbs": 6,
+     "fat": 2,
+     "portion": "tofu, seaweed",
+     "allergens": [
+      "soy",
+      "fish"
+     ]
+    },
+    {
+     "name": "Salmon Avocado Salad",
+     "cal": 350,
+     "protein": 20,
+     "carbs": 12,
+     "fat": 24,
+     "portion": "salmon, avocado",
+     "allergens": [
+      "fish",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Sashimi Salad",
+     "cal": 300,
+     "protein": 30,
+     "carbs": 10,
+     "fat": 14,
+     "portion": "mixed raw fish, greens",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Tako Salad",
+     "cal": 250,
+     "protein": 20,
+     "carbs": 10,
+     "fat": 12,
+     "portion": "octopus",
+     "allergens": [
+      "shellfish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Tuna Avocado Salad",
+     "cal": 350,
+     "protein": 22,
+     "carbs": 12,
+     "fat": 22,
+     "portion": "tuna, avocado",
+     "allergens": [
+      "fish",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Crabmeat Salad",
+     "cal": 300,
+     "protein": 10,
+     "carbs": 15,
+     "fat": 22,
+     "portion": "imitation crab, mayo, carrot",
+     "allergens": [
+      "fish",
+      "gluten",
+      "egg",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Avocado Salad",
+     "cal": 250,
+     "protein": 3,
+     "carbs": 15,
+     "fat": 20,
+     "portion": "avocado, carrot",
+     "allergens": [
+      "fruit",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Sashimi Sampler",
+     "cal": 250,
+     "protein": 40,
+     "carbs": 0,
+     "fat": 8,
+     "portion": "7 pieces raw fish",
+     "allergens": [
+      "fish"
+     ]
+    },
+    {
+     "name": "Sushi Sampler",
+     "cal": 300,
+     "protein": 18,
+     "carbs": 40,
+     "fat": 6,
+     "portion": "5 nigiri",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Tuna Tataki",
+     "cal": 250,
+     "protein": 30,
+     "carbs": 5,
+     "fat": 10,
+     "portion": "seared tuna, ponzu (citrus)",
+     "allergens": [
+      "fish",
+      "soy",
+      "fruit"
+     ]
+    },
+    {
+     "name": "Karashi Mixed",
+     "cal": 300,
+     "protein": 30,
+     "carbs": 8,
+     "fat": 14,
+     "portion": "fish w. mustard sauce",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Salmon Tataki",
+     "cal": 280,
+     "protein": 28,
+     "carbs": 5,
+     "fat": 16,
+     "portion": "seared salmon, ponzu (citrus)",
+     "allergens": [
+      "fish",
+      "soy",
+      "fruit"
+     ]
+    },
+    {
+     "name": "Gyoza",
+     "cal": 350,
+     "protein": 12,
+     "carbs": 35,
+     "fat": 16,
+     "portion": "~6 dumplings",
+     "allergens": [
+      "gluten",
+      "soy",
+      "sesame"
+     ]
+    },
+    {
+     "name": "Harumaki",
+     "cal": 300,
+     "protein": 5,
+     "carbs": 35,
+     "fat": 16,
+     "portion": "spring rolls; carrot likely",
+     "allergens": [
+      "gluten",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Fuji Sampler",
+     "cal": 700,
+     "protein": 25,
+     "carbs": 60,
+     "fat": 38,
+     "portion": "mixed fried apps",
+     "allergens": [
+      "gluten",
+      "soy",
+      "shellfish",
+      "egg"
+     ]
+    },
+    {
+     "name": "Edamame",
+     "cal": 200,
+     "protein": 17,
+     "carbs": 15,
+     "fat": 8,
+     "portion": "steamed soybeans",
+     "allergens": [
+      "soy"
+     ]
+    },
+    {
+     "name": "Fried Calamari",
+     "cal": 550,
+     "protein": 25,
+     "carbs": 40,
+     "fat": 30,
+     "portion": "fried squid",
+     "allergens": [
+      "shellfish",
+      "gluten",
+      "egg"
+     ]
+    },
+    {
+     "name": "Shrimp Shumai",
+     "cal": 250,
+     "protein": 14,
+     "carbs": 25,
+     "fat": 8,
+     "portion": "~6 steamed",
+     "allergens": [
+      "shellfish",
+      "gluten",
+      "soy"
+     ]
+    },
+    {
+     "name": "Shrimp Tempura App",
+     "cal": 500,
+     "protein": 20,
+     "carbs": 40,
+     "fat": 28,
+     "portion": "tempura shrimp",
+     "allergens": [
+      "shellfish",
+      "gluten",
+      "egg"
+     ]
+    },
+    {
+     "name": "Vegetable Tempura",
+     "cal": 450,
+     "protein": 5,
+     "carbs": 50,
+     "fat": 24,
+     "portion": "tempura veg (carrot likely)",
+     "allergens": [
+      "gluten",
+      "egg",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Crab Rangoon",
+     "cal": 450,
+     "protein": 10,
+     "carbs": 35,
+     "fat": 28,
+     "portion": "fried, cream cheese",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "shellfish",
+      "fish"
+     ]
+    },
+    {
+     "name": "Chicken Tempura App",
+     "cal": 600,
+     "protein": 30,
+     "carbs": 45,
+     "fat": 32,
+     "portion": "tempura chicken",
+     "allergens": [
+      "gluten",
+      "egg"
+     ]
+    },
+    {
+     "name": "Tuna Nigiri",
+     "cal": 120,
+     "protein": 12,
+     "carbs": 15,
+     "fat": 1,
+     "portion": "2 pc",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Salmon Nigiri",
+     "cal": 140,
+     "protein": 11,
+     "carbs": 15,
+     "fat": 4,
+     "portion": "2 pc",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Smoked Salmon Nigiri",
+     "cal": 130,
+     "protein": 11,
+     "carbs": 15,
+     "fat": 3,
+     "portion": "2 pc",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Egg Nigiri",
+     "cal": 150,
+     "protein": 6,
+     "carbs": 20,
+     "fat": 5,
+     "portion": "2 pc tamago",
+     "allergens": [
+      "egg",
+      "soy"
+     ]
+    },
+    {
+     "name": "Octopus Nigiri",
+     "cal": 110,
+     "protein": 10,
+     "carbs": 15,
+     "fat": 1,
+     "portion": "2 pc",
+     "allergens": [
+      "shellfish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Squid Nigiri",
+     "cal": 110,
+     "protein": 9,
+     "carbs": 15,
+     "fat": 1,
+     "portion": "2 pc",
+     "allergens": [
+      "shellfish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Super White Tuna Nigiri",
+     "cal": 160,
+     "protein": 11,
+     "carbs": 15,
+     "fat": 6,
+     "portion": "2 pc escolar",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Flying Fish Roe Nigiri",
+     "cal": 120,
+     "protein": 8,
+     "carbs": 16,
+     "fat": 2,
+     "portion": "2 pc gunkan",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Mackerel Nigiri",
+     "cal": 150,
+     "protein": 10,
+     "carbs": 15,
+     "fat": 6,
+     "portion": "2 pc",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Red Snapper Nigiri",
+     "cal": 110,
+     "protein": 10,
+     "carbs": 15,
+     "fat": 1,
+     "portion": "2 pc",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Shrimp Nigiri",
+     "cal": 110,
+     "protein": 9,
+     "carbs": 15,
+     "fat": 1,
+     "portion": "2 pc",
+     "allergens": [
+      "shellfish",
+      "soy"
+     ]
+    },
+    {
+     "name": "White Tuna Nigiri",
+     "cal": 140,
+     "protein": 11,
+     "carbs": 15,
+     "fat": 4,
+     "portion": "2 pc",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Yellowtail Nigiri",
+     "cal": 140,
+     "protein": 11,
+     "carbs": 15,
+     "fat": 4,
+     "portion": "2 pc",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Crab Stick Nigiri",
+     "cal": 120,
+     "protein": 5,
+     "carbs": 20,
+     "fat": 1,
+     "portion": "2 pc imitation crab",
+     "allergens": [
+      "fish",
+      "gluten",
+      "soy"
+     ]
+    },
+    {
+     "name": "Eel Nigiri",
+     "cal": 180,
+     "protein": 10,
+     "carbs": 20,
+     "fat": 7,
+     "portion": "2 pc, eel sauce",
+     "allergens": [
+      "fish",
+      "soy",
+      "gluten"
+     ]
+    },
+    {
+     "name": "California Roll",
+     "cal": 260,
+     "protein": 8,
+     "carbs": 38,
+     "fat": 8,
+     "portion": "crab stick, avocado, cucumber",
+     "allergens": [
+      "fish",
+      "gluten",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Hollywood Roll",
+     "cal": 300,
+     "protein": 9,
+     "carbs": 40,
+     "fat": 10,
+     "portion": "avocado",
+     "allergens": [
+      "fish",
+      "gluten",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Spicy Tuna Roll",
+     "cal": 300,
+     "protein": 14,
+     "carbs": 36,
+     "fat": 10,
+     "portion": "tuna, spicy mayo",
+     "allergens": [
+      "fish",
+      "egg",
+      "soy",
+      "sesame"
+     ]
+    },
+    {
+     "name": "Philly Roll",
+     "cal": 320,
+     "protein": 10,
+     "carbs": 38,
+     "fat": 14,
+     "portion": "salmon, cream cheese, avocado",
+     "allergens": [
+      "fish",
+      "dairy",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Shrimp Tempura Roll",
+     "cal": 450,
+     "protein": 12,
+     "carbs": 55,
+     "fat": 20,
+     "portion": "tempura shrimp",
+     "allergens": [
+      "shellfish",
+      "gluten",
+      "egg",
+      "soy"
+     ]
+    },
+    {
+     "name": "Spicy Crabmeat Roll",
+     "cal": 320,
+     "protein": 8,
+     "carbs": 40,
+     "fat": 14,
+     "portion": "crab stick, spicy mayo",
+     "allergens": [
+      "fish",
+      "gluten",
+      "egg",
+      "soy"
+     ]
+    },
+    {
+     "name": "Spicy Salmon Roll",
+     "cal": 310,
+     "protein": 12,
+     "carbs": 36,
+     "fat": 12,
+     "portion": "salmon, spicy mayo",
+     "allergens": [
+      "fish",
+      "egg",
+      "soy"
+     ]
+    },
+    {
+     "name": "Avocado Roll",
+     "cal": 250,
+     "protein": 3,
+     "carbs": 40,
+     "fat": 9,
+     "portion": "avocado",
+     "allergens": [
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Kani Roll",
+     "cal": 220,
+     "protein": 6,
+     "carbs": 38,
+     "fat": 3,
+     "portion": "crab stick",
+     "allergens": [
+      "fish",
+      "gluten",
+      "soy"
+     ]
+    },
+    {
+     "name": "Tuna Roll",
+     "cal": 200,
+     "protein": 12,
+     "carbs": 32,
+     "fat": 1,
+     "portion": "tuna",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Boston Roll",
+     "cal": 300,
+     "protein": 10,
+     "carbs": 40,
+     "fat": 10,
+     "portion": "shrimp, avocado, cucumber typical",
+     "allergens": [
+      "shellfish",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Salmon Roll",
+     "cal": 230,
+     "protein": 10,
+     "carbs": 32,
+     "fat": 5,
+     "portion": "salmon",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Yellowtail Roll",
+     "cal": 230,
+     "protein": 11,
+     "carbs": 32,
+     "fat": 5,
+     "portion": "yellowtail",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Cucumber Roll",
+     "cal": 140,
+     "protein": 3,
+     "carbs": 30,
+     "fat": 0,
+     "portion": "cucumber",
+     "allergens": [
+      "soy"
+     ]
+    },
+    {
+     "name": "Ebi Shrimp Roll",
+     "cal": 210,
+     "protein": 9,
+     "carbs": 34,
+     "fat": 2,
+     "portion": "cooked shrimp",
+     "allergens": [
+      "shellfish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Sweet Potato Roll",
+     "cal": 350,
+     "protein": 4,
+     "carbs": 55,
+     "fat": 12,
+     "portion": "tempura sweet potato",
+     "allergens": [
+      "gluten",
+      "egg",
+      "soy"
+     ]
+    },
+    {
+     "name": "Chicken Tempura Roll",
+     "cal": 450,
+     "protein": 16,
+     "carbs": 55,
+     "fat": 18,
+     "portion": "tempura chicken",
+     "allergens": [
+      "gluten",
+      "egg",
+      "soy"
+     ]
+    },
+    {
+     "name": "Spicy Yellowtail Roll",
+     "cal": 300,
+     "protein": 12,
+     "carbs": 36,
+     "fat": 11,
+     "portion": "yellowtail, spicy mayo",
+     "allergens": [
+      "fish",
+      "egg",
+      "soy"
+     ]
+    },
+    {
+     "name": "Salmon Avocado Roll",
+     "cal": 300,
+     "protein": 11,
+     "carbs": 36,
+     "fat": 12,
+     "portion": "salmon, avocado",
+     "allergens": [
+      "fish",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Tuna Avocado Roll",
+     "cal": 290,
+     "protein": 13,
+     "carbs": 36,
+     "fat": 10,
+     "portion": "tuna, avocado",
+     "allergens": [
+      "fish",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Eel Roll",
+     "cal": 350,
+     "protein": 12,
+     "carbs": 45,
+     "fat": 12,
+     "portion": "eel, avocado, eel sauce",
+     "allergens": [
+      "fish",
+      "fruit",
+      "soy",
+      "gluten"
+     ]
+    },
+    {
+     "name": "Avocado Cucumber Roll",
+     "cal": 220,
+     "protein": 3,
+     "carbs": 38,
+     "fat": 7,
+     "portion": "avocado, cucumber",
+     "allergens": [
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "NY Roll",
+     "cal": 300,
+     "protein": 12,
+     "carbs": 36,
+     "fat": 12,
+     "portion": "salmon skin",
+     "allergens": [
+      "fish",
+      "soy"
+     ]
+    },
+    {
+     "name": "Alaskan Roll",
+     "cal": 300,
+     "protein": 11,
+     "carbs": 38,
+     "fat": 10,
+     "portion": "salmon, avocado",
+     "allergens": [
+      "fish",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Asparagus Roll",
+     "cal": 160,
+     "protein": 3,
+     "carbs": 32,
+     "fat": 1,
+     "portion": "asparagus",
+     "allergens": [
+      "soy"
+     ]
+    },
+    {
+     "name": "Hello Kitty Roll",
+     "cal": 650,
+     "protein": 20,
+     "carbs": 70,
+     "fat": 30,
+     "portion": "deep fried; shrimp tempura, crab",
+     "allergens": [
+      "shellfish",
+      "fish",
+      "gluten",
+      "egg",
+      "soy"
+     ]
+    },
+    {
+     "name": "Red Wolf Roll",
+     "cal": 650,
+     "protein": 18,
+     "carbs": 70,
+     "fat": 32,
+     "portion": "deep fried; crawfish, crab, cream cheese",
+     "allergens": [
+      "shellfish",
+      "fish",
+      "gluten",
+      "dairy",
+      "egg",
+      "soy"
+     ]
+    },
+    {
+     "name": "Highland Roll",
+     "cal": 500,
+     "protein": 15,
+     "carbs": 60,
+     "fat": 22,
+     "portion": "shrimp tempura, avocado",
+     "allergens": [
+      "shellfish",
+      "gluten",
+      "egg",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Polar Bear Roll",
+     "cal": 500,
+     "protein": 12,
+     "carbs": 60,
+     "fat": 22,
+     "portion": "crab, avocado, cream cheese",
+     "allergens": [
+      "fish",
+      "gluten",
+      "dairy",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Black Dragon Roll",
+     "cal": 550,
+     "protein": 18,
+     "carbs": 65,
+     "fat": 22,
+     "portion": "eel/tempura typical, avocado likely",
+     "allergens": [
+      "fish",
+      "gluten",
+      "egg",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Crazy Tuna Roll",
+     "cal": 500,
+     "protein": 20,
+     "carbs": 60,
+     "fat": 18,
+     "portion": "tuna, avocado",
+     "allergens": [
+      "fish",
+      "egg",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Fancy Rainbow Roll",
+     "cal": 500,
+     "protein": 25,
+     "carbs": 60,
+     "fat": 14,
+     "portion": "salmon, tuna, cucumber, topped fish/avocado likely",
+     "allergens": [
+      "fish",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Gold Point Roll",
+     "cal": 600,
+     "protein": 20,
+     "carbs": 65,
+     "fat": 28,
+     "portion": "deep fried spicy salmon + crab",
+     "allergens": [
+      "fish",
+      "gluten",
+      "egg",
+      "soy"
+     ]
+    },
+    {
+     "name": "Green River Roll",
+     "cal": 600,
+     "protein": 18,
+     "carbs": 70,
+     "fat": 26,
+     "portion": "shrimp tempura, eel, avocado",
+     "allergens": [
+      "shellfish",
+      "fish",
+      "gluten",
+      "egg",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Blue Point Roll",
+     "cal": 450,
+     "protein": 12,
+     "carbs": 60,
+     "fat": 16,
+     "portion": "crab, avocado, asparagus",
+     "allergens": [
+      "fish",
+      "gluten",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Fire Island Roll",
+     "cal": 550,
+     "protein": 16,
+     "carbs": 65,
+     "fat": 24,
+     "portion": "shrimp tempura, avocado, spicy",
+     "allergens": [
+      "shellfish",
+      "gluten",
+      "egg",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "Fuji Roll",
+     "cal": 550,
+     "protein": 18,
+     "carbs": 65,
+     "fat": 22,
+     "portion": "house special roll (contents not listed; avocado possible)",
+     "allergens": [
+      "fish",
+      "gluten",
+      "egg",
+      "fruit",
+      "soy"
+     ]
+    },
+    {
+     "name": "South California Roll",
+     "cal": 450,
+     "protein": 12,
+     "carbs": 60,
+     "fat": 14,
+     "portion": "crab, tamago",
+     "allergens": [
+      "fish",
+      "gluten",
+      "egg",
+      "soy"
+     ]
+    },
+    {
+     "name": "Dynamite Roll",
+     "cal": 600,
+     "protein": 20,
+     "carbs": 65,
+     "fat": 28,
+     "portion": "deep fried white tuna, avocado",
+     "allergens": [
+      "fish",
+      "gluten",
+      "egg",
+      "fruit",
+      "soy"
+     ]
+    }
+   ],
+   "note": "Sushi/appetizer items only (hibachi not listed). Avocado = fruit."
+  },
+  "blue-ember": {
+   "name": "Blue Ember Smokehouse",
+   "match": [
+    "blue ember"
+   ],
+   "menu_source": "https://www.doordash.com/store/blue-ember-smokehouse-jonesboro-24637888/ (DoorDash menu, viewed 2026-10-24)",
+   "label": "Estimated",
+   "items": [
+    {
+     "name": "Ribs (1/3 lb)",
+     "cal": 400,
+     "protein": 28,
+     "carbs": 5,
+     "fat": 30,
+     "portion": "1/3 lb pork ribs (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "tomato"
+     ]
+    },
+    {
+     "name": "Pulled Pork (1/3 lb)",
+     "cal": 330,
+     "protein": 30,
+     "carbs": 2,
+     "fat": 22,
+     "portion": "1/3 lb (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "tomato"
+     ]
+    },
+    {
+     "name": "Sausage (1/3 lb)",
+     "cal": 450,
+     "protein": 20,
+     "carbs": 3,
+     "fat": 40,
+     "portion": "1/3 lb smoked sausage",
+     "allergens": []
+    },
+    {
+     "name": "Turkey Breast (1/3 lb)",
+     "cal": 200,
+     "protein": 38,
+     "carbs": 2,
+     "fat": 4,
+     "portion": "1/3 lb",
+     "allergens": []
+    },
+    {
+     "name": "Chicken Quarter (1/3 lb)",
+     "cal": 350,
+     "protein": 32,
+     "carbs": 0,
+     "fat": 24,
+     "portion": "quarter chicken",
+     "allergens": []
+    },
+    {
+     "name": "Smoked Bologna (1/3 lb)",
+     "cal": 450,
+     "protein": 16,
+     "carbs": 5,
+     "fat": 40,
+     "portion": "1/3 lb",
+     "allergens": []
+    },
+    {
+     "name": "Brisket (1/3 lb)",
+     "cal": 420,
+     "protein": 36,
+     "carbs": 0,
+     "fat": 30,
+     "portion": "1/3 lb",
+     "allergens": []
+    },
+    {
+     "name": "Burnt Ends (1/3 lb)",
+     "cal": 500,
+     "protein": 32,
+     "carbs": 12,
+     "fat": 36,
+     "portion": "1/3 lb, sauced (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "tomato"
+     ]
+    },
+    {
+     "name": "Pulled Pork Sandwich",
+     "cal": 600,
+     "protein": 35,
+     "carbs": 55,
+     "fat": 25,
+     "portion": "pork on bun (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Chicken Sandwich",
+     "cal": 550,
+     "protein": 38,
+     "carbs": 50,
+     "fat": 20,
+     "portion": "smoked chicken on bun (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Turkey Sandwich",
+     "cal": 500,
+     "protein": 40,
+     "carbs": 50,
+     "fat": 14,
+     "portion": "turkey on bun",
+     "allergens": [
+      "gluten"
+     ]
+    },
+    {
+     "name": "Smoked Bologna Sandwich",
+     "cal": 650,
+     "protein": 20,
+     "carbs": 50,
+     "fat": 42,
+     "portion": "bologna on bun (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Brisket Sandwich",
+     "cal": 700,
+     "protein": 42,
+     "carbs": 50,
+     "fat": 36,
+     "portion": "brisket on bun (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Special Ops Sandwich",
+     "cal": 1100,
+     "protein": 60,
+     "carbs": 90,
+     "fat": 56,
+     "portion": "brisket, pork, sausage, beans (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Arkansas Salad",
+     "cal": 550,
+     "protein": 35,
+     "carbs": 20,
+     "fat": 36,
+     "portion": "meat, greens, cheese, egg, carrot",
+     "allergens": [
+      "dairy",
+      "egg",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Fort Chaffee Salad",
+     "cal": 600,
+     "protein": 35,
+     "carbs": 35,
+     "fat": 34,
+     "portion": "carrot, strawberries",
+     "allergens": [
+      "dairy",
+      "egg",
+      "carrot",
+      "fruit"
+     ]
+    },
+    {
+     "name": "Side Salad",
+     "cal": 250,
+     "protein": 8,
+     "carbs": 15,
+     "fat": 18,
+     "portion": "greens, cheese; carrot/tomato likely",
+     "allergens": [
+      "dairy",
+      "carrot",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Potato All The Way",
+     "cal": 800,
+     "protein": 30,
+     "carbs": 70,
+     "fat": 46,
+     "portion": "loaded baked potato w. meat (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Hawg Trough Fries",
+     "cal": 1000,
+     "protein": 40,
+     "carbs": 85,
+     "fat": 56,
+     "portion": "fries, meat, cheese, sauce (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Mac & Cheese",
+     "cal": 350,
+     "protein": 12,
+     "carbs": 35,
+     "fat": 18,
+     "portion": "side",
+     "allergens": [
+      "gluten",
+      "dairy"
+     ]
+    },
+    {
+     "name": "French Fries",
+     "cal": 350,
+     "protein": 4,
+     "carbs": 45,
+     "fat": 17,
+     "portion": "side",
+     "allergens": []
+    },
+    {
+     "name": "Potato Salad",
+     "cal": 300,
+     "protein": 5,
+     "carbs": 25,
+     "fat": 20,
+     "portion": "side",
+     "allergens": [
+      "egg"
+     ]
+    },
+    {
+     "name": "Fried Okra",
+     "cal": 300,
+     "protein": 5,
+     "carbs": 30,
+     "fat": 18,
+     "portion": "side",
+     "allergens": [
+      "gluten"
+     ]
+    },
+    {
+     "name": "Brisket Twister",
+     "cal": 450,
+     "protein": 20,
+     "carbs": 20,
+     "fat": 32,
+     "portion": "jalapeno, brisket, cream cheese, wrapped/fried",
+     "allergens": [
+      "dairy",
+      "gluten"
+     ]
+    },
+    {
+     "name": "Loaded Baked Potato",
+     "cal": 600,
+     "protein": 18,
+     "carbs": 60,
+     "fat": 32,
+     "portion": "side, cheese, bacon, sour cream",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Corn on Cob",
+     "cal": 200,
+     "protein": 5,
+     "carbs": 30,
+     "fat": 8,
+     "portion": "side, butter",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Green Beans",
+     "cal": 120,
+     "protein": 3,
+     "carbs": 12,
+     "fat": 7,
+     "portion": "side",
+     "allergens": []
+    },
+    {
+     "name": "Sweet Potato",
+     "cal": 300,
+     "protein": 4,
+     "carbs": 55,
+     "fat": 8,
+     "portion": "side",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Potato Chips",
+     "cal": 250,
+     "protein": 3,
+     "carbs": 25,
+     "fat": 15,
+     "portion": "bag",
+     "allergens": []
+    },
+    {
+     "name": "Slaw",
+     "cal": 200,
+     "protein": 1,
+     "carbs": 12,
+     "fat": 16,
+     "portion": "side, carrot",
+     "allergens": [
+      "egg",
+      "carrot"
+     ]
+    },
+    {
+     "name": "BBQ Baked Beans",
+     "cal": 250,
+     "protein": 10,
+     "carbs": 45,
+     "fat": 4,
+     "portion": "side, BBQ sauce (tomato)",
+     "allergens": [
+      "tomato"
+     ]
+    },
+    {
+     "name": "Baked Potato",
+     "cal": 300,
+     "protein": 7,
+     "carbs": 55,
+     "fat": 6,
+     "portion": "side",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "Ice Cream Cone",
+     "cal": 200,
+     "protein": 4,
+     "carbs": 30,
+     "fat": 7,
+     "portion": "cone",
+     "allergens": [
+      "gluten",
+      "dairy"
+     ]
+    }
+   ]
+  },
+  "legends-bbq": {
+   "name": "Legends BBQ Smokehouse",
+   "match": [
+    "legends bbq"
+   ],
+   "menu_source": "https://www.doordash.com/store/legends-bbq-smokehouse-jonesboro-1608870/ (DoorDash menu, viewed 2026-10-24)",
+   "label": "Estimated",
+   "items": [
+    {
+     "name": "Pulled Pork Jumbo Sandwich",
+     "cal": 800,
+     "protein": 50,
+     "carbs": 65,
+     "fat": 35,
+     "portion": "jumbo (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Pulled Chicken Jumbo Sandwich",
+     "cal": 750,
+     "protein": 55,
+     "carbs": 65,
+     "fat": 26,
+     "portion": "jumbo (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Smoke Sausage Link Sandwich",
+     "cal": 600,
+     "protein": 20,
+     "carbs": 45,
+     "fat": 38,
+     "portion": "link on bun",
+     "allergens": [
+      "gluten"
+     ]
+    },
+    {
+     "name": "Pulled Chicken Sandwich",
+     "cal": 550,
+     "protein": 38,
+     "carbs": 50,
+     "fat": 18,
+     "portion": "(BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Pulled Pork Sandwich",
+     "cal": 600,
+     "protein": 35,
+     "carbs": 50,
+     "fat": 25,
+     "portion": "(BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Pardew Twist",
+     "cal": 750,
+     "protein": 40,
+     "carbs": 60,
+     "fat": 38,
+     "portion": "house sandwich (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Chopped Brisket Sandwich",
+     "cal": 700,
+     "protein": 42,
+     "carbs": 50,
+     "fat": 36,
+     "portion": "(BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Chopped Brisket Jumbo",
+     "cal": 900,
+     "protein": 58,
+     "carbs": 60,
+     "fat": 48,
+     "portion": "(BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "tomato"
+     ]
+    },
+    {
+     "name": "BBQ Salad Brisket",
+     "cal": 650,
+     "protein": 40,
+     "carbs": 25,
+     "fat": 42,
+     "portion": "brisket over greens, cheese; tomato likely",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "BBQ Salad Chicken/Pork",
+     "cal": 550,
+     "protein": 38,
+     "carbs": 25,
+     "fat": 32,
+     "portion": "chicken or pork over greens; tomato likely",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Garden Side Salad",
+     "cal": 200,
+     "protein": 6,
+     "carbs": 12,
+     "fat": 14,
+     "portion": "tomato",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Pulled Pork Platter",
+     "cal": 750,
+     "protein": 45,
+     "carbs": 40,
+     "fat": 40,
+     "portion": "(meat + Texas toast; 2 sides extra) (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Ribs 4 Bones Platter",
+     "cal": 900,
+     "protein": 45,
+     "carbs": 40,
+     "fat": 60,
+     "portion": "(meat + Texas toast; 2 sides extra) (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Ribs 4 Bones (no side)",
+     "cal": 650,
+     "protein": 40,
+     "carbs": 8,
+     "fat": 50,
+     "portion": "4 bones (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "tomato"
+     ]
+    },
+    {
+     "name": "Full Rack (no side)",
+     "cal": 2000,
+     "protein": 130,
+     "carbs": 25,
+     "fat": 150,
+     "portion": "full rack (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "tomato"
+     ]
+    },
+    {
+     "name": "Sausage Link Platter",
+     "cal": 900,
+     "protein": 30,
+     "carbs": 40,
+     "fat": 68,
+     "portion": "(meat + Texas toast; 2 sides extra)",
+     "allergens": [
+      "gluten",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Two Meat Combo",
+     "cal": 900,
+     "protein": 55,
+     "carbs": 40,
+     "fat": 55,
+     "portion": "(meat + Texas toast; 2 sides extra) (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Brisket Platter",
+     "cal": 850,
+     "protein": 55,
+     "carbs": 35,
+     "fat": 52,
+     "portion": "(meat + Texas toast; 2 sides extra) (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Pulled Chicken Platter",
+     "cal": 700,
+     "protein": 55,
+     "carbs": 40,
+     "fat": 30,
+     "portion": "(meat + Texas toast; 2 sides extra) (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Rib Tips (no sides)",
+     "cal": 700,
+     "protein": 40,
+     "carbs": 10,
+     "fat": 55,
+     "portion": "rib tips (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "tomato"
+     ]
+    },
+    {
+     "name": "Smoked Pulled Chicken (1 lb)",
+     "cal": 800,
+     "protein": 120,
+     "carbs": 5,
+     "fat": 30,
+     "portion": "1 lb",
+     "allergens": []
+    },
+    {
+     "name": "Smoked Brisket (1 lb)",
+     "cal": 1250,
+     "protein": 110,
+     "carbs": 0,
+     "fat": 90,
+     "portion": "1 lb",
+     "allergens": []
+    },
+    {
+     "name": "Smoked Pulled Pork (1 lb)",
+     "cal": 1000,
+     "protein": 90,
+     "carbs": 5,
+     "fat": 68,
+     "portion": "1 lb",
+     "allergens": []
+    },
+    {
+     "name": "Loaded BBQ Baked Potato",
+     "cal": 850,
+     "protein": 35,
+     "carbs": 70,
+     "fat": 46,
+     "portion": "potato, meat, cheese, sauce (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Baked Potato",
+     "cal": 350,
+     "protein": 7,
+     "carbs": 55,
+     "fat": 10,
+     "portion": "butter, sour cream",
+     "allergens": [
+      "dairy"
+     ]
+    },
+    {
+     "name": "BBQ Fries",
+     "cal": 1000,
+     "protein": 40,
+     "carbs": 85,
+     "fat": 56,
+     "portion": "fries, meat, cheese (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "BBQ Nachos",
+     "cal": 1100,
+     "protein": 45,
+     "carbs": 90,
+     "fat": 62,
+     "portion": "chips, meat, cheese (BBQ sauce: may contain tomato)",
+     "allergens": [
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Fried Green Tomatoes",
+     "cal": 400,
+     "protein": 5,
+     "carbs": 40,
+     "fat": 24,
+     "portion": "side",
+     "allergens": [
+      "tomato",
+      "gluten",
+      "egg"
+     ]
+    },
+    {
+     "name": "Mac & Cheese",
+     "cal": 350,
+     "protein": 12,
+     "carbs": 35,
+     "fat": 18,
+     "portion": "side",
+     "allergens": [
+      "gluten",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Fried Okra",
+     "cal": 300,
+     "protein": 5,
+     "carbs": 30,
+     "fat": 18,
+     "portion": "side",
+     "allergens": [
+      "gluten"
+     ]
+    },
+    {
+     "name": "Baked Beans",
+     "cal": 250,
+     "protein": 10,
+     "carbs": 45,
+     "fat": 4,
+     "portion": "side (BBQ, tomato)",
+     "allergens": [
+      "tomato"
+     ]
+    },
+    {
+     "name": "Onion Rings",
+     "cal": 450,
+     "protein": 6,
+     "carbs": 50,
+     "fat": 26,
+     "portion": "side",
+     "allergens": [
+      "gluten",
+      "egg"
+     ]
+    },
+    {
+     "name": "Potato Salad",
+     "cal": 300,
+     "protein": 5,
+     "carbs": 25,
+     "fat": 20,
+     "portion": "side",
+     "allergens": [
+      "egg"
+     ]
+    },
+    {
+     "name": "Coleslaw",
+     "cal": 200,
+     "protein": 1,
+     "carbs": 12,
+     "fat": 16,
+     "portion": "side; carrot likely",
+     "allergens": [
+      "egg",
+      "carrot"
+     ]
+    },
+    {
+     "name": "Fries",
+     "cal": 350,
+     "protein": 4,
+     "carbs": 45,
+     "fat": 17,
+     "portion": "side",
+     "allergens": []
+    },
+    {
+     "name": "House Burger",
+     "cal": 750,
+     "protein": 38,
+     "carbs": 45,
+     "fat": 44,
+     "portion": "patty, ketchup (tomato)",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato"
+     ]
+    },
+    {
+     "name": "Tasha Burger",
+     "cal": 1050,
+     "protein": 50,
+     "carbs": 80,
+     "fat": 58,
+     "portion": "patty, pulled pork, onion ring, lettuce, tomato",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "tomato",
+      "egg"
+     ]
+    },
+    {
+     "name": "Fried Pie",
+     "cal": 400,
+     "protein": 4,
+     "carbs": 50,
+     "fat": 20,
+     "portion": "peach/apple/apricot = fruit (chocolate/pecan options fruit-free)",
+     "allergens": [
+      "gluten",
+      "dairy",
+      "fruit",
+      "treenut"
+     ]
+    }
+   ]
   }
  }
 }

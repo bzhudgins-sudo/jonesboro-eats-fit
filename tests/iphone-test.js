@@ -26,7 +26,7 @@ let pass=0,fail=0;const ok=(c,m)=>{c?pass++:fail++;console.log((c?'PASS ':'FAIL 
  await p.click('#tabs button[data-v="snacks"]');ok(await p.$$eval('#v-snacks .item',x=>x.length)>0,'snacks tab');
  await p.click('#tabs button[data-v="profile"]');ok(!!(await p.$('#pSave')),'profile tab');
  const sw=await p.evaluate(async()=>{const r=await navigator.serviceWorker.ready;return r.active?.scriptURL});ok(!!sw,'service worker active: '+sw);
- const ck=await p.evaluate(()=>caches.keys());ok(ck.includes('eatsfit-v4')&&!ck.some(k=>k.includes('tiles')),'cache '+ck);
+ const ck=await p.evaluate(()=>caches.keys());ok(ck.includes('eatsfit-v5')&&!ck.some(k=>k.includes('tiles')),'cache '+ck);
  await p.setOfflineMode(true);await p.reload({waitUntil:'domcontentloaded'});await p.waitForSelector('.place',{timeout:8000}).catch(()=>{});
  ok((await p.$$eval('.place',x=>x.length))>=150,'works offline');
  ok(errs.length===0,'no page errors '+errs.join('; '));
